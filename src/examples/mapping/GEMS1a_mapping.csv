@@ -1,0 +1,588 @@
+﻿IRI,label,variable,codebookDescription,codebookValues
+http://purl.obolibrary.org/obo/EUPATH_0000309,Signs and symptoms,F7_ABN_HAIR | F4B_ABN_HAIR | F5_ABN_HAIR,"Physical findings: Abnormal hair: sparse, loose, straight",0
+http://purl.obolibrary.org/obo/EUPATH_0010016,Diarrheal episodes,F4A_BREASTFED_BEFORE_ILL,Was child breastfeeding during the week before becoming ill with diarrhea?,0
+http://purl.obolibrary.org/obo/EUPATH_0010016,Diarrheal episodes,F4A_BREASTFED_SINCE_ILL,Has child been breast feeding since becoming ill with diarrhea?,0
+http://purl.obolibrary.org/obo/EUPATH_0010035,Administrative information,F3_CHILD_LSD,Is the child eligible for enrollment in the LSD study,
+http://purl.obolibrary.org/obo/EUPATH_0010035,Administrative information,F3_CHILD_MSD,Is the child eligible for enrollment in the MSD study,
+http://purl.obolibrary.org/obo/EUPATH_0010035,Administrative information,F3_DATE,Date eligibility form was completed,Date
+http://purl.obolibrary.org/obo/EUPATH_0010035,Administrative information,F3_LSD_CASE,Is this child currently enrolled in GEMS1A as an LSD Case?,0/1
+http://purl.obolibrary.org/obo/EUPATH_0010035,Administrative information,F3_MSD_CASE,Is this child currently enrolled in GEMS1A as an MSD Case?,0/1
+http://purl.obolibrary.org/obo/EUPATH_0010035,Administrative information,F6_LSD_MSD,Enrollment for Case MSD or LSD,0/1
+http://purl.obolibrary.org/obo/EUPATH_0010036,Eligibility criteria,LSD,Did child have Less Severe Diarrhea?,
+http://purl.obolibrary.org/obo/EUPATH_0010036,Eligibility criteria,MSD,Did child have moderate-to-severe diarrhea?,
+http://purl.obolibrary.org/obo/EUPATH_0010400,Hand washing material,F5_WASH_CLAY,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Clay",0
+http://purl.obolibrary.org/obo/EUPATH_0010400,Hand washing material,F5_WASH_MUD,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Mud",0
+http://purl.obolibrary.org/obo/EUPATH_0011690,Breastfeeding summary,F7_EVERBREASTFED,Was the child ever breastfed?,0/1
+http://purl.obolibrary.org/obo/EUPATH_0011761,Stool bacteria testing,F17CORR_EPEC_EAE,PCR Duplex: EPEC eae,0
+http://purl.obolibrary.org/obo/EUPATH_0011761,Stool bacteria testing,F17CORR_EPEC_ST,PCR Duplex: EPEC ST,0
+http://purl.obolibrary.org/obo/EUPATH_0011761,Stool bacteria testing,F19_BFRAG_TESTNON,B. fragilis test performed,0
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F16_VIB_01,Bacteria Isolated: Vibrio cholerae O1 Serotype,0
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F16_VIB_0139,Bacteria Isolated: Vibrio cholerae O139 Serotype,0
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F16_VIB_ELTORCLASS,Bacteria isolated: Vibrio cholerae O1 El tor class,1
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F16CORR_SHIG_DYSENT1,Bacteria Isolated: Shigella dysenteriae serotype 1,0
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F16CRF_SHIG_7,Shigella flexneri serotype  7,
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F18_CLOSTR_GDH,Clostridium GDH Ag,0
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F18_CLOSTR_TOXIN,Clostridium difficile Toxin A/B,0
+http://purl.obolibrary.org/obo/EUPATH_0011843,Raw bacteria data for stool,F19_BFRAG_RESULTS,B. fragilis test result,0
+http://purl.obolibrary.org/obo/EUPATH_0011845,Raw eukaryota data for stool,F19_HELMIN_ASCARIS,Ascaris lumbricoides Real Time PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0011845,Raw eukaryota data for stool,F19_HELMIN_STRONG,Strongyloides stercoralis Real Time PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0011963,Strongyloides in stool,pn48,Strongyloides stercoralis,
+http://purl.obolibrary.org/obo/EUPATH_0011984,Shigella in stool,F16CORR_S_NONTYPE,Bacteria Isolated: Shigella non-typeable,0
+http://purl.obolibrary.org/obo/EUPATH_0011984,Shigella in stool,F16CORR_SHIG_7A,Bacteria Isolated: Shigella flexneri serotype 7A,
+http://purl.obolibrary.org/obo/EUPATH_0011984,Shigella in stool,F16CRF_SHIG_3C,Shigella flexneri serotype 3c,
+http://purl.obolibrary.org/obo/EUPATH_0030117,Necator in stool,F19_HELMIN_NECATOR,Necator americanus Real Time PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0015716,Stool eukaryote testing,F19_HELMIN_TEST,Helminth Real Time PCR Test Completed,0
+http://purl.obolibrary.org/obo/EUPATH_0011967,Bacteria in stool,pn50,Toxin positive Bacteroides fragilis,
+http://purl.obolibrary.org/obo/EUPATH_0011967,Bacteria in stool,pn44,Clostridium difficile no toxin,
+http://purl.obolibrary.org/obo/EUPATH_0011967,Bacteria in stool,pn45,Clostridium difficile toxin,
+http://purl.obolibrary.org/obo/EUPATH_0011967,Bacteria in stool,pn46,No Clostridium difficile but toxin,
+http://purl.obolibrary.org/obo/EUPATH_0011967,Bacteria in stool,pn61,"Clostridium difficile GDH positive, toxin negative",
+http://purl.obolibrary.org/obo/EUPATH_0011967,Bacteria in stool,pn62,"Clostridium difficile GDH negative, toxin positive",
+http://purl.obolibrary.org/obo/EUPATH_0011967,Bacteria in stool,pn43,Helicobacter pylori,
+http://purl.obolibrary.org/obo/EUPATH_0030117,Eukaryota in stool,F19_HELMIN_ANCYL,Ancylostoma duodenale Real Time PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0030117,Eukaryota in stool,pn49,Hookworm,
+http://purl.obolibrary.org/obo/EUPATH_0030117,Eukaryota in stool,pn47,Ascaris lumbridoides,
+http://purl.obolibrary.org/obo/EUPATH_0010367,Age group,agegroup,Calculated Age Group from base_age,1
+http://purl.obolibrary.org/obo/EUPATH_0010368,Age at eligibility form completion (months),base_age,Combined Age from F3Age Cases and F6 Age Controls,
+http://purl.obolibrary.org/obo/EUPATH_0010049,Case ID,CASEID,"Child ID of Case, used to group Cases and matching Control",Num
+http://purl.obolibrary.org/obo/EUPATH_0010047,Study center,CENTER,3-Digit Center Number,
+http://purl.obolibrary.org/obo/EUPATH_0000667,Deceased,death,Did child pass away within 60 days? (Calculated from date of death F5),0
+http://purl.obolibrary.org/obo/EUPATH_0015422,Dysentery,dysentery_ind,Was dysentery indicated?,0/1
+http://purl.obolibrary.org/obo/EUPATH_0010369,Enrollment month,ENR_MON | enrollmon,Month of enrollment,
+http://purl.obolibrary.org/obo/EUPATH_0010370,Enrollment year,ENR_YR | enrollyr,Year of enrollment,
+http://purl.obolibrary.org/obo/EUPATH_0000151,Enrollment date,ENROLLDATE | F6_DATE_ENROLL,"Date of Enrollment (or visit date on form 3, 2, 6) | If child is enrolled into the study, enter the date of enrollment.",DATE
+http://purl.obolibrary.org/obo/EUPATH_0015231,Amoxycillin,F11_ANTI_AMOX,If received antibiotic: Amoxicillin?,0
+http://purl.obolibrary.org/obo/EUPATH_0015220,Ampicillin,F11_ANTI_AMPI,If received antibiotic: Ampicillin?,0
+http://purl.obolibrary.org/obo/EUPATH_0015228,Azithromycin,F11_ANTI_AZIT,If received antibiotic: Azithromycin?,0
+http://purl.obolibrary.org/obo/EUPATH_0015226,Chloramphenicol or thiamphenicol,F11_ANTI_CHLO,If received antibiotic: Chloramphenicol/Thiamphenicol?,0
+http://purl.obolibrary.org/obo/EUPATH_0015223,Ciprofloxacin,F11_ANTI_CIPR,If received antibiotic: Ciprofloxacin/Norfloxacin/other fluroquinolone?,0
+http://purl.obolibrary.org/obo/EUPATH_0015222,Cotrimoxazole,F11_ANTI_COTR,If received antibiotic: Cotrimoxazole?,0
+http://purl.obolibrary.org/obo/EUPATH_0010219,1st antibiotic administration date,F11_ANTI_DATE,If antibiotic was given: Date of first antibiotic,Date
+http://purl.obolibrary.org/obo/EUPATH_0015227,Erythromycin,F11_ANTI_ERYT,If received antibiotic: Erythromycin?,0
+http://purl.obolibrary.org/obo/EUPATH_0015225,Gentamycin,F11_ANTI_GENT,If received antibiotic: Gentamycin?,0
+http://purl.obolibrary.org/obo/EUPATH_0015229,Other macrolides,F11_ANTI_MACR,If received antibiotic: Other Macrolides?,0
+http://purl.obolibrary.org/obo/EUPATH_0015221,Nalidixic acid,F11_ANTI_NALI,If received antibiotic: Nalidixic acid?,0
+http://purl.obolibrary.org/obo/EUPATH_0015232,Other antibiotic,F11_ANTI_OTHER,If received antibiotic: Other Antibiotic?,0
+http://purl.obolibrary.org/obo/EUPATH_0015230,Penicillin,F11_ANTI_PENI,If received antibiotic: Penicillin?,0
+http://purl.obolibrary.org/obo/EUPATH_0015224,Selexid or pivmecillinam,F11_ANTI_SELE,If received antibiotic: Selexid/Pivimecillinam,0
+http://purl.obolibrary.org/obo/EUPATH_0010220,Time of 1st antibiotic administration,F11_ANTI_TIME,If antibiotic was given: Time of first antibiotic,Time 24 hr
+http://purl.obolibrary.org/obo/EUPATH_0010218,Administered antibiotic,F11_ANTIBIOTIC,"If the child is a case, did s/he receive antibiotics after arriving at the health cetner but before producing the whole stool specimen? If the child is a control, did s/he receive antibiotic during the 4 hours prior to stool collection?",0
+http://purl.obolibrary.org/obo/EUPATH_0015217,Stool blood present,F11_BLOOD,Characterization of whole stool sample: Blood,0
+http://purl.obolibrary.org/obo/EUPATH_0010217,Stool consistency,F11_CONSISTENCY,Consistency of whole stool sample,1
+http://purl.obolibrary.org/obo/OBI_0001619,Sample collection date,F11_DATE,Visit date for Stool Collection,
+http://purl.obolibrary.org/obo/EUPATH_0010224,Date stool or rectal swab placed in transport media,F11_DATESTAFF,Date whole stool/rectal swab placed in transport media,Date
+http://purl.obolibrary.org/obo/EUPATH_0010215,Date stool passed,F11_DATESTOOL,Date first whole stool passed/excreted,Date
+http://purl.obolibrary.org/obo/EUPATH_0000711,Stool mucus present,F11_MUCUS,Characterization of whole stool sample: Mucus,0
+http://purl.obolibrary.org/obo/EUPATH_0015218,Stool pus present,F11_PUS,Characterization of whole stool sample: Pus,0
+http://purl.obolibrary.org/obo/EUPATH_0010221,Rectal swabs collected,F11_RECTAL_SWAB,"If the child is a case and was given antibiotics at the health center before the child produced a whole stool specimen, were rectal swabs collected form the child before the child received antibiotics?",0
+http://purl.obolibrary.org/obo/EUPATH_0010222,Rectal swab date,F11_SWAB_DATE,Date rectal swabs obtained,Date
+http://purl.obolibrary.org/obo/EUPATH_0010223,Rectal swab time,F11_SWAB_TIME,Time rectal swabs obtained,Time 24 hr
+http://purl.obolibrary.org/obo/EUPATH_0010225,Time stool or rectal swab placed in transport media,F11_TIMESTAFF,Time whole stool/rectal swab placed in transport media,Time 24 hr
+http://purl.obolibrary.org/obo/EUPATH_0010216,Time stool passed,F11_TIMESTOOL,Time first whole stool passed/excreted,24 hr Time
+http://purl.obolibrary.org/obo/EUPATH_0015454,Stool weight (g),F15_WT_VOL_ACT,Actual weight,
+http://purl.obolibrary.org/obo/EUPATH_0015299,"Campylobacter (non-jejuni or coli), by bacteriology",F16_CAMPY_NONJEJ,Bacteria Isolated: Campylobacter (not jejuni or coli),0
+http://purl.obolibrary.org/obo/EUPATH_0015300,"Campylobacter (non-speciated), by bacteriology",F16_CAMPY_NONSPEC,Bacteria Isolated: Campylobacter (non-speciated),0
+http://purl.obolibrary.org/obo/EUPATH_0015458,Test date,F16_DATE,Calculated Date of Test,Date
+http://purl.obolibrary.org/obo/EUPATH_0015306,"Vibrio cholerae, by bacteriology",F16_VIB_CHOLERAE,Bacteria Isolated: Vibrio cholerae,0
+http://purl.obolibrary.org/obo/EUPATH_0015464,"Vibrio cholerae Inaba or Ogawa, by bacteriology result",F16_VIB_INABAOGAWA,Bacteria isolated: Vibrio 01,1
+http://purl.obolibrary.org/obo/EUPATH_0015309,"Vibrio cholerae non-O1/O139, by bacteriology",F16_VIB_NON,Bacteria Isolated: Vibrio cholerae Non01/0139 Serotype,0
+http://purl.obolibrary.org/obo/EUPATH_0015312,"Vibrio (other species), by bacteriology",F16_VIB_OTHER,Bacteria Isolated: Vibrio (other species),0
+http://purl.obolibrary.org/obo/EUPATH_0015322,"Vibrio parahaemolyticus, by bacteriology",F16_VIB_PARAHAEM,Bacteria Isolated: Vibrio parahaemolyticus,0
+http://purl.obolibrary.org/obo/EUPATH_0010630,"Escherichia coli, by bacteriology result",F16CORR_ECOLI,Bacteria Isolated: E. coli Isolated,0
+http://purl.obolibrary.org/obo/EUPATH_0015443,"Shigella flexneri serotype 1A, by bacteriology",F16CORR_SHIG_1A,Bacteria Isolated: Shigella flexneri Serotype 1A,0
+http://purl.obolibrary.org/obo/EUPATH_0015444,"Shigella flexneri serotype 1B, by bacteriology",F16CORR_SHIG_1B,Bacteria Isolated: Shigella flexneri Serotype 1B,0
+http://purl.obolibrary.org/obo/EUPATH_0015445,"Shigella flexneri serotype 2A, by bacteriology",F16CORR_SHIG_2A,Bacteria Isolated: Shigella flexneri Serotype 2A,0
+http://purl.obolibrary.org/obo/EUPATH_0015446,"Shigella flexneri serotype 2B, by bacteriology",F16CORR_SHIG_2B,Bacteria Isolated: Shigella flexneri Serotype 2B,0
+http://purl.obolibrary.org/obo/EUPATH_0015447,"Shigella flexneri serotype 3A, by bacteriology",F16CORR_SHIG_3A,Bacteria Isolated: Shigella flexneri Serotype 3A,0
+http://purl.obolibrary.org/obo/EUPATH_0015448,"Shigella flexneri serotype 3B, by bacteriology",F16CORR_SHIG_3B,Bacteria Isolated: Shigella flexneri Serotype 3B,0
+http://purl.obolibrary.org/obo/EUPATH_0015324,"Shigella flexneri serotype 4A, by bacteriology",F16CORR_SHIG_4A,Bacteria Isolated: Shigella flexneri Serotype 4A,0
+http://purl.obolibrary.org/obo/EUPATH_0015301,"Shigella flexneri serotype 4B, by bacteriology",F16CORR_SHIG_4B,Bacteria Isolated: Shigella flexneri Serotype 4B,0
+http://purl.obolibrary.org/obo/EUPATH_0015325,"Shigella flexneri serotype 4C, by bacteriology",F16CORR_SHIG_4C,Bacteria Isolated: Shigella flexneri Serotype 4C,0
+http://purl.obolibrary.org/obo/EUPATH_0015326,"Shigella flexneri serotype 5A, by bacteriology",F16CORR_SHIG_5A,Bacteria Isolated: Shigella flexneri Serotype 5A,0
+http://purl.obolibrary.org/obo/EUPATH_0015302,"Shigella flexneri serotype 5B, by bacteriology",F16CORR_SHIG_5B,Bacteria Isolated: Shigella flexneri Serotype 5B,0
+http://purl.obolibrary.org/obo/EUPATH_0015303,"Shigella flexneri serotype 6, by bacteriology",F16CORR_SHIG_6,Bacteria Isolated: Shigella flexneri Serotype 6,0
+http://purl.obolibrary.org/obo/EUPATH_0015304,"Shigella flexneri non-typeable, by bacteriology result",F16CORR_SHIG_NONTYP,Bacteria Isolated: Shigella flexneri Non-typeable,0
+http://purl.obolibrary.org/obo/EUPATH_0015327,"Shigella flexneri serotype X, by bacteriology",F16CORR_SHIG_X,Bacteria Isolated: Shigella flexneri Serotype X,0
+http://purl.obolibrary.org/obo/EUPATH_0015328,"Shigella flexneri serotype Y, by bacteriology",F16CORR_SHIG_Y,Bacteria Isolated: Shigella flexneri Serotype Y,0
+http://purl.obolibrary.org/obo/EUPATH_0015314,"EHEC efa1-pos, by PCR result",F17A_EFA1,EPEC EFA-1,0
+http://purl.obolibrary.org/obo/EUPATH_0015313,"Escherichia coli sen-pos, by PCR result",F17A_SEN,EPEC SEN PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0010687,"STEC stx1-pos, by PCR result",F17A_STX1,EPEC STX-1 PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0010691,"STEC stx2-pos, by PCR result",F17A_STX2,EPEC STX-2 PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0015409,"EPEC bfpA, by PCR monoplex result",F17CORR_BFPA_RESULTS,bfpA monoplex PCR results,0
+http://purl.obolibrary.org/obo/EUPATH_0015425,"EPEC eae, by PCR duplex result",F17CORR_EAE_RESULTS,PCR Duplex: EPEC eae results,0
+http://purl.obolibrary.org/obo/EUPATH_0015408,EPEC bfpA PCR monoplex performed,F17CORR_EPEC_BFPA,bfpA monoplex PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0010659,"EAEC aaiC-pos, by PCR result",F17CORR_RESULT_AAIC,aaiC PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0010663,"EAEC aatA-pos, by PCR result",F17CORR_RESULT_AATA,aatA PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0015318,"EPEC bfpA-pos, by PCR result",F17CORR_RESULT_BFPA,bfpa PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0010671,"EPEC eae-pos, by PCR result",F17CORR_RESULT_EAE,EAE PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0010679,"ETEC LT-pos, by PCR result",F17CORR_RESULT_ELTB,eltb (LT) PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0015317,"ETEC ST-pos, by PCR result",F17CORR_RESULT_ESTA,estA (ST) PCR,0
+http://purl.obolibrary.org/obo/EUPATH_0015453,"ETEC ST-pos, by PCR duplex result",F17CORR_ST_RESULTS,PCR Duplex: EPEC ST,0
+http://purl.obolibrary.org/obo/EUPATH_0015440,Registration date,F2_DATE,Registration Log Date Completed,DATE
+http://purl.obolibrary.org/obo/EUPATH_0010995,Hospitalized,F2_HOSP,Hospitalized?,0
+http://purl.obolibrary.org/obo/EUPATH_0010410,Passed 3 or more abnormally loose stools in last 24hrs,F3_ABN_LOOSE,Did this child pass 3 or more abnormally loose stools during the previous 24 hours?,1
+http://purl.obolibrary.org/obo/EUPATH_0010409,Participant under 60 months,F3_AGE59,Is this child 0-59 months of Age,1
+http://purl.obolibrary.org/obo/EUPATH_0010421,Given antibiotic before stool collection,F3_ANTIBIOTIC,Was child given antibiotic before whole stool sample could be collected?,0
+http://purl.obolibrary.org/obo/EUPATH_0010407,Qualified as DSS resident,F3_CHILD_DSS | F2_DSS,Does the Child Qualify as a DSS Resident? | Qualifies for DSS?,1
+http://purl.obolibrary.org/obo/EUPATH_0010424,Participant enrolled,F3_CHILD_ENROLL,Was the child enrolled?,1
+http://purl.obolibrary.org/obo/EUPATH_0010420,Consent for enrollment given,F3_CONSENT,Was consent obtained?,1
+http://purl.obolibrary.org/obo/EUPATH_0010411,Current diarrhea episode began within the last 7 days,F3_DRH_7,Did current diarrhea episode begin within the previous 7 days?,1
+http://purl.obolibrary.org/obo/EUPATH_0010416,Dysentery,F3_DRH_DYS,Does the Child have any one of the following: dysentery (diarrhea with visible blood in stool observed or reported),0
+http://purl.obolibrary.org/obo/EUPATH_0010417,Hospitalized with diarrhea or dysentery,F3_DRH_HOSP,Does the Child have any one of the following: hospitalized with diarrhea or dysentery,0
+http://purl.obolibrary.org/obo/EUPATH_0010415,IV rehydration administered or prescribed,F3_DRH_IV,Does the Child have any one of following: intravenous rehydration administered or prescribed?,0
+http://purl.obolibrary.org/obo/EUPATH_0010413,"Sunken eyes, more than normal",F3_DRH_SUNKEYES,"Does the Child have any one of following: Sunken eyes, more than normal",0
+http://purl.obolibrary.org/obo/EUPATH_0010414,Loss of skin turgor,F3_DRH_TURGOR,Does the Child have any one of following: Loss of skin turgor,0
+http://purl.obolibrary.org/obo/EUPATH_0010412,At least 7 days without diarrhea before current episode,F3_DRH7DAY,"Before this episode began, did the child have at least 7 days without Diarrhea?",1
+http://purl.obolibrary.org/obo/EUPATH_0010423,Rectal swabs collected before antibiotics and whole stool collected within 12hrs of registration,F3_RECT_SWAB,"if Yes to 'was child given ab', were rectal swabs taken before antibiotics and was a whole stool collected within 12 hours of registration?",1
+http://purl.obolibrary.org/obo/EUPATH_0010422,Whole stool collected within 12 hrs of registration,F3_STOOL_SMPL,"If no to 'was child given ab', was a stool sample collected from the child within 12 hours of registration?",1
+http://purl.obolibrary.org/obo/EUPATH_0015027,Cat,F4A_ANI_CAT | F7_ANI_CAT,Do the following animals live in the compound where Child lives? Cat?,0
+http://purl.obolibrary.org/obo/EUPATH_0015028,Cow,F4A_ANI_COW | F7_ANI_COW,Do the following animals live in the compound where Child lives? Cow?,0
+http://purl.obolibrary.org/obo/EUPATH_0015026,Dog,F4A_ANI_DOG | F7_ANI_DOG,Do the following animals live in the compound where Child lives? Dog?,0
+http://purl.obolibrary.org/obo/EUPATH_0015029,Rodents,F4A_ANI_RODENTS | F7_ANI_RODENTS,Do the following animals live in the compound where Child lives? Rodents?,0
+http://purl.obolibrary.org/obo/EUPATH_0015025,Sheep,F4A_ANI_SHEEP | F7_ANI_SHEEP,Do the following animals live in the compound where Child lives? Sheep?,0
+http://purl.obolibrary.org/obo/EUPATH_0010147,Preferred chlorine treatment brand,F4A_CHLORINE | F7_CHLORINE,"If you use chlorine liquid, powder or tablets, which type do you most commonly use?",0
+http://purl.obolibrary.org/obo/EUPATH_0010253,"1st choice hospital or health center, total expenses",F4A_CTR1_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Hospital/Center of 1st Choice,Num
+http://purl.obolibrary.org/obo/EUPATH_0010254,"1st choice hospital or health center, transport expenses",F4A_CTR1_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Hospital/Center of 1st Choice,Num
+http://purl.obolibrary.org/obo/EUPATH_0010255,"2nd choice hospital or health center, total expenses",F4A_CTR2_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Hospital/Center of 2nd Choice,Num
+http://purl.obolibrary.org/obo/EUPATH_0010256,"2nd choice hospital or health center, transport expenses",F4A_CTR2_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Hospital/Center of 2nd Choice,Num
+http://purl.obolibrary.org/obo/EUPATH_0010257,"3rd choice hospital or health center, total expenses",F4A_CTR3_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Hospital/Center of 3rd Choice,Num
+http://purl.obolibrary.org/obo/EUPATH_0010258,"3rd choice hospital or health center, transport expenses",F4A_CTR3_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Hospital/Center of 3rd Choice,Num
+http://purl.obolibrary.org/obo/EUPATH_0015080,Dry mouth,F4A_CUR_DRYMOUTH,"Right now, does your child have any of the following? Dry mouth?",0
+http://purl.obolibrary.org/obo/EUPATH_0015081,Fast breathing,F4A_CUR_FASTBREATH,"Right now, does your child have any of the following? Fast breathing?",0
+http://purl.obolibrary.org/obo/EUPATH_0015079,Lethargy or loss of consciousness,F4A_CUR_LETHRGY,"Right now, does your child have any of the following? Lethargy or loss of consciousness?",0
+http://purl.obolibrary.org/obo/EUPATH_0015075,Drinks poorly,F4A_CUR_NODRINK,"Right now, does your child have any of the following? Drinks poorly or not able to drink?",0
+http://purl.obolibrary.org/obo/EUPATH_0015078,Irritable or restless,F4A_CUR_RESTLESS,"Right now, does your child have any of the following? Irritable or restless?",0
+http://purl.obolibrary.org/obo/EUPATH_0015077,Wrinkled skin,F4A_CUR_SKIN,"Right now, does your child have any of the following? Wrinkled skin?",0
+http://purl.obolibrary.org/obo/EUPATH_0015076,Sunken eyes,F4A_CUR_SUNKEYES,"Right now, does your child have any of the following? Sunken Eyes?",0
+http://purl.obolibrary.org/obo/EUPATH_0015074,Very thirsty,F4A_CUR_THIRSTY,"Right now, does your child have any of the following? Very thirsty?",0
+http://purl.obolibrary.org/obo/EUPATH_0010277,Income days lost while seeking care,F4A_DAYSLOST_CARE,How much time have you spent taking care of Child when otherwise you woul dhave been doing income generating activities?,Character and Numeric
+http://purl.obolibrary.org/obo/EUPATH_0010278,Other caregivers income days lost while seeking care,F4A_DAYSLOST_OTHRCRE,How much time have other caregivers spent taking care of Child when otherwise they would have been doing income generating activities?,Character and Numeric
+http://purl.obolibrary.org/obo/EUPATH_0010247,"Unlicensed doctor, total expenses",F4A_DOC_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Unlicensed practitioner/village doctor/bush doctor,Num
+http://purl.obolibrary.org/obo/EUPATH_0010248,"Unlicensed doctor, transport expenses",F4A_DOC_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Unlicensed practitioner/village doctor/bush doctor,Num
+http://purl.obolibrary.org/obo/EUPATH_0015706,Abdominal pain,F4A_DRH_BELLYPAIN,Did Child have any of the following since this illness began? Belly pain?,0
+http://purl.obolibrary.org/obo/EUPATH_0015059,Blood in stools,F4A_DRH_BLOOD,Did Child have any of the following since this illness began? Blood in stools?,0
+http://purl.obolibrary.org/obo/EUPATH_0015072,Difficulty breathing,F4A_DRH_BREATH,Did Child have any of the following since this illness began? Difficulty breathing?,0
+http://purl.obolibrary.org/obo/EUPATH_0015068,Loss of consciousness,F4A_DRH_CONSC,Did Child have any of the following since this illness began? Loss of consciousness?,0
+http://purl.obolibrary.org/obo/EUPATH_0015073,Convulsion,F4A_DRH_CONV,Did Child have any of the following since this illness began? Convulsion?,0
+http://purl.obolibrary.org/obo/EUPATH_0015707,Cough,F4A_DRH_COUGH,Did Child have any of the following since this illness began? Cough?,0
+http://purl.obolibrary.org/obo/EUPATH_0010238,Diarrheal episode duration (days),F4A_DRH_DAYS,How many days including today has this episode of diarrhea lasted?,Num
+http://purl.obolibrary.org/obo/EUPATH_0015065,Measured fever of at least 38C or parental perception,F4A_DRH_FEVER,Did Child have any of the following since this illness began? Fever measured at least 38C or parental perception?,0
+http://purl.obolibrary.org/obo/EUPATH_0015062,Drank much less than usual,F4A_DRH_LESSDRINK,Did Child have any of the following since this illness began? Drank much less than usual?,0
+http://purl.obolibrary.org/obo/EUPATH_0015067,Decreased activity or lethargy,F4A_DRH_LETHRGY,Did Child have any of the following since this illness began? Decreased activity or lethargy?,0
+http://purl.obolibrary.org/obo/EUPATH_0015070,Rectal prolapse,F4A_DRH_PROLAPSE,Did Child have any of the following since this illness began? Rectal prolapse?,0
+http://purl.obolibrary.org/obo/EUPATH_0015066,Irritable or restless,F4A_DRH_RESTLESS,Did Child have any of the following since this illness began? Irritable or restless?,0
+http://purl.obolibrary.org/obo/EUPATH_0010239,Describe stool since the illness began,F4A_DRH_STOOLS,"Since Child became ill with diarrhea, how would you describe the stool?",1
+http://purl.obolibrary.org/obo/EUPATH_0015069,Rectal straining,F4A_DRH_STRAIN,Did Child have any of the following since this illness began? Rectal straining?,0
+http://purl.obolibrary.org/obo/EUPATH_0015061,Very thirsty,F4A_DRH_THIRST,Did Child have any of the following since this illness began? Very thirsty?,0
+http://purl.obolibrary.org/obo/EUPATH_0015063,Unable to drink,F4A_DRH_UNDRINK,Did Child have any of the following since this illness began? Unable to drink?,0
+http://purl.obolibrary.org/obo/EUPATH_0015060,Vomiting 3 or more times per day,F4A_DRH_VOMIT,Did Child have any of the following since this illness began? Vomiting 3 or more times per day?,0
+http://purl.obolibrary.org/obo/EUPATH_0010266,"Hospitalization or visit, consultation expenses",F4A_EXPEN_CONSULT,What are your estimated out-of-pocket expenses for the following? Consultation?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010268,"Hospitalization or visit, diagnostic expenses",F4A_EXPEN_DIAG,What are your estimated out-of-pocket expenses for the following? Diganostics?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010267,"Hospitalization or visit, drug expenses",F4A_EXPEN_DRUG,What are your estimated out-of-pocket expenses for the following? Drugs?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010269,"Hospitalization or visit, food expenses",F4A_EXPEN_FOOD,What are your estimated out-of-pocket expenses for the following? Food?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010270,"Hospitalization or visit, other expenses (amount)",F4A_EXPEN_OTHR,What are your estimated out-of-pocket expenses for the following? Other?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010271,"Hospitalization or visit, other expenses",F4A_EXPEN_SPEC,What are your estimated out-of-pocket expenses for the following? Specify.,Char
+http://purl.obolibrary.org/obo/EUPATH_0010272,"Hospitalization or visit, total expenses",F4A_EXPEN_TOTAL,What are your estimated out-of-pocket expenses for the following? Total.,Num
+http://purl.obolibrary.org/obo/EUPATH_0010234,Fetch drinking water everyday,F4A_FETCH_WATER | F7_FETCH_WATER,Do you or other members from your household go and fetch drinking water fro the household every day?,0
+http://purl.obolibrary.org/obo/EUPATH_0000006,Floor material,F4A_FLOOR | F7_FLOOR,What is the predominant floor in the house of Child?,1
+http://purl.obolibrary.org/obo/EUPATH_0015013,Biogas,F4A_FUEL_BIOGAS | F7_FUEL_BIOGAS,What type of cooking fuel does your house use? Biogas?,0
+http://purl.obolibrary.org/obo/EUPATH_0015012,Electricity,F4A_FUEL_ELEC | F7_FUEL_ELEC,What type of cooking fuel does your house use? Electricity?,0
+http://purl.obolibrary.org/obo/EUPATH_0015014,"Straw, shrubs, or grass",F4A_FUEL_GRASS | F7_FUEL_GRASS,What type of cooking fuel does your house use? Straw/Shrubs/Grass?,0
+http://purl.obolibrary.org/obo/EUPATH_0015021,Kerosene,F4A_FUEL_KERO | F7_FUEL_KERO,What type of cooking fuel does your house use? Kerosene?,0
+http://purl.obolibrary.org/obo/EUPATH_0015018,Natural gas,F4A_FUEL_NATGAS | F7_FUEL_NATGAS,What type of cooking fuel does your house use? Natural gas?,0
+http://purl.obolibrary.org/obo/EUPATH_0015023,Other,F4A_FUEL_OTHER | F7_FUEL_OTHER,What type of cooking fuel does your house use? Other?,0
+http://purl.obolibrary.org/obo/EUPATH_0010245,"Traditional healer, medical expenses",F4A_HEAL_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Traditional Healer,Num
+http://purl.obolibrary.org/obo/EUPATH_0010246,"Traditional healer, transport expenses",F4A_HEAL_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Traditional Healer,Num
+http://purl.obolibrary.org/obo/EUPATH_0015089,Antibiotics,F4A_HOMETRT_AB,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Antibiotics?",0
+http://purl.obolibrary.org/obo/EUPATH_0015085,Home remedy or herbal medication,F4A_HOMETRT_HERB,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Home remedy/Herbal medicaion?",0
+http://purl.obolibrary.org/obo/EUPATH_0015083,Homemade fluid,F4A_HOMETRT_MAIZE,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Homemade fluid?",0
+http://purl.obolibrary.org/obo/EUPATH_0015084,Special milk or infant formula,F4A_HOMETRT_MILK,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Special milk or infant formula?",0
+http://purl.obolibrary.org/obo/EUPATH_0015087,No special remedies given,F4A_HOMETRT_NONE,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? No special remedies given?",0
+http://purl.obolibrary.org/obo/EUPATH_0015082,ORALITE or ORS,F4A_HOMETRT_ORS,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? A fluid made from a special packed called Oralite or ORS?",0
+http://purl.obolibrary.org/obo/EUPATH_0015090,Other treatment,F4A_HOMETRT_OTHR2 | F4A_HOMETRT_OTHR1,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Other (1)? | Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Other (2)?",0
+http://purl.obolibrary.org/obo/EUPATH_0015088,Any other liquids,F4A_HOMETRT_OTHRLIQ,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Any other liquids?",0
+http://purl.obolibrary.org/obo/EUPATH_0015086,Zinc,F4A_HOMETRT_ZINC,"Before coming to this hospital/health center, was child given any of the following to treat their diarrhea? Zinc (tablet/syrup)?",0
+http://purl.obolibrary.org/obo/EUPATH_0015008,Agricultural land,F4A_HOUSE_AGLAND | F7_HOUSE_AGLAND,Does your household have Agricultural Land?,0
+http://purl.obolibrary.org/obo/EUPATH_0000179,Boat with a motor,F4A_HOUSE_BOAT | F7_HOUSE_BOAT,Does your household have a boat with a motor?,0
+http://purl.obolibrary.org/obo/EUPATH_0015011,None of the above,F4A_HOUSE_NONE | F7_HOUSE_NONE,Does your household have none of the above?,0
+http://purl.obolibrary.org/obo/ENVO_01000580,Telephone (mobile or non-mobile),F4A_HOUSE_PHONE | F7_HOUSE_PHONE,Does your household have a telephone (mobile or non-mobile)?,0
+http://purl.obolibrary.org/obo/ENVO_01000579,Television,F4A_HOUSE_TELE | F7_HOUSE_TELE,Does your household have a telephone (mobile or non-mobile)? | Does your household have a television?,0
+http://purl.obolibrary.org/obo/EUPATH_0010273,Lost earnings due to care,F4A_LOSE_EARN,Did you lose some earnings due to seeking or providing care during Child's Illness,0
+http://purl.obolibrary.org/obo/EUPATH_0010274,Amount earnings lost due to care,F4A_LOSE_TOTAL,"If yes, how much?",
+http://purl.obolibrary.org/obo/EUPATH_0010240,Max loose stools at episode,F4A_MAX_STOOLS,"During the illness, what was the maximum number of loose stools that Child passed in a day (24 hour period)?",1
+http://purl.obolibrary.org/obo/EUPATH_0015103,Selling assets,F4A_MONEY_ASSET,Where did the money come from? Selling assets?,0
+http://purl.obolibrary.org/obo/EUPATH_0015102,Borrowing,F4A_MONEY_BORROW,Where did the money come from? Borrowing?,0
+http://purl.obolibrary.org/obo/EUPATH_0015104,Asking for donations outside the household,F4A_MONEY_DONAT,Where did the money come from? Asking for donations outside the household?,0
+http://purl.obolibrary.org/obo/EUPATH_0015099,Cutting down expenses from meals,F4A_MONEY_MEAL,Where did the money come from? Cutting down expenses from meal?,0
+http://purl.obolibrary.org/obo/EUPATH_0015100,Cutting down from other expenses,F4A_MONEY_OTHEXP,Where did the money come from? Cutting down from other expenses?,0
+http://purl.obolibrary.org/obo/EUPATH_0015106,Other money source,F4A_MONEY_OTHR,Where did the money come from? Other?,0
+http://purl.obolibrary.org/obo/EUPATH_0015105,Paid by relative or friend,F4A_MONEY_RELATIVE,Where did the money come from? Relative or friend pays on your behalf?,0
+http://purl.obolibrary.org/obo/EUPATH_0015101,Using savings,F4A_MONEY_SVNGS,Where did the money come from? Using savings?,0
+http://purl.obolibrary.org/obo/EUPATH_0010241,Amount offered to drink during diarrheal episode,F4A_OFFR_DRINK,"The last time Child had diarrhea, how much did you offer Child to drink? | Since Child developed diarrhea, how much have you been offering Child to drink?",0 | 1
+http://purl.obolibrary.org/obo/EUPATH_0010177,Amount offered to eat during diarrheal episode,F4A_OFFR_EAT,"Since Child developed diarrhea, how much have you been offering Child to eat? | The last time Child had diarrhea, how much did you offer Child to eat?",0 | 1
+http://purl.obolibrary.org/obo/EUPATH_0010260,Previously sought care other expenses (amount),F4A_OTHER_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Other,Num
+http://purl.obolibrary.org/obo/EUPATH_0010261,Other transportation expenses,F4A_OTHER_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Other,Num
+http://purl.obolibrary.org/obo/EUPATH_0010275,Other lost earnings,F4A_OTHRLOSE_EARN,Did other caregivers lose some earnings due to seeking or providing care during Child's Illness,0
+http://purl.obolibrary.org/obo/EUPATH_0010276,Amount other lost earnings,F4A_OTHRLOSE_TOTAL,"If yes, how much?",
+http://purl.obolibrary.org/obo/EUPATH_0010243,"Pharmacy, medical expenses",F4A_PHARM_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Pharmacy,Num
+http://purl.obolibrary.org/obo/EUPATH_0010244,"Pharmacy, transport expenses",F4A_PHARM_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Pharmacy,Num
+http://purl.obolibrary.org/obo/EUPATH_0000019,Persons living in house,F4A_PPL_HOUSE | F7_PPL_HOUSE,How many people have been living regularly in your household for the past 6 months?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010129,Primary caregiver's education level,F4A_PRIM_SCHL | F7_PRIM_SCHL,How far did the child's primary caregiver go in school?,1
+http://purl.obolibrary.org/obo/EUPATH_0010249,"Licensed doctor, medical expenses",F4A_PRIVDOC_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Licensed practitioner/private doctor,Num
+http://purl.obolibrary.org/obo/EUPATH_0010250,"Licensed doctor, transport expenses",F4A_PRIVDOC_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Licensed practitioner/private doctor,Num
+http://purl.obolibrary.org/obo/EUPATH_0010123,Interviewee relationship to participant,F4A_RELATIONSHIP | F7_RELATION,What is your relationship to the Child?,1
+http://purl.obolibrary.org/obo/EUPATH_0010251,"Bought remedy or medicine, medical expenses",F4A_REMDY_TOTAL,What were your or your household estimated out-of-pocket expenses for the following: Total Medical Bought remedy/medicine at the shop/market,Num
+http://purl.obolibrary.org/obo/EUPATH_0010252,"Bought remedy or medicine, transport expenses",F4A_REMDY_TRNSPRT,What were your or your household estimated out-of-pocket expenses for the following: Transportation Bought remedy/medicine at the shop/market,Num
+http://purl.obolibrary.org/obo/EUPATH_0010155,1st choice hospital or health center,F4A_SEEK_CTR1 | F7_SEEK_CTR1,"If you previously sought care for Child for this illness, where did you go? Hospital/Center of first choice? | If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of first choice",0
+http://purl.obolibrary.org/obo/EUPATH_0010159,1st choice facility SHC,F4A_SEEK_CTR1_SHC | F7_SEEK_CTR1_SHC,If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of first choice. SHC,0
+http://purl.obolibrary.org/obo/EUPATH_0010161,2nd choice hospital or health center,F4A_SEEK_CTR2 | F7_SEEK_CTR2,"If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of second choice | If you previously sought care for Child for this illness, where did you go? Hospital/Center of second choice?",0
+http://purl.obolibrary.org/obo/EUPATH_0010165,2nd choice facility SHC,F4A_SEEK_CTR2_SHC | F7_SEEK_CTR2_SHC,If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of second choice SHC,0
+http://purl.obolibrary.org/obo/EUPATH_0010167,3rd choice hospital or health center,F4A_SEEK_CTR3 | F7_SEEK_CTR3,"If you previously sought care for Child for this illness, where did you go? Hospital/Center of third choice? | If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of third choice",0
+http://purl.obolibrary.org/obo/EUPATH_0015095,Traditional healer,F4A_SEEK_HEALER | F7_SEEK_HEALER,"If you sought care for Child's last episode of diarrhea where did you go? Traditional healer | If you previously sought care for Child for this illness, where did you go? Traditional healer?",0
+http://purl.obolibrary.org/obo/EUPATH_0010173,Other hospital or health center,F4A_SEEK_OTHER | F7_SEEK_OTHR,"If you previously sought care for Child for this illness, where did you go? Other hospital/center? | If you sought care for Child's last episode of diarrhea where did you go? Other Hospital/Center",0
+http://purl.obolibrary.org/obo/EUPATH_0015097,Licensed practitioner,F4A_SEEK_PRIVDOC | F7_SEEK_PRIVDOC,"If you sought care for Child's last episode of diarrhea where did you go? Licensed practitioner/private doctor (not at hospital | If you previously sought care for Child for this illness, where did you go? Licensed practitioner/private doctor (not at hospital)",0
+http://purl.obolibrary.org/obo/EUPATH_0015098,Bought a remedy or drug,F4A_SEEK_REMDY | F7_SEEK_REMDY,"If you previously sought care for Child for this illness, where did you go? Bought a remedy/medicine at the shop/market | If you sought care for Child's last episode of diarrhea where did you go? Bought a remedy/medicine at the shop/market?",0
+http://purl.obolibrary.org/obo/EUPATH_0010236,Households sharing human waste disposal facility,F4A_SHARE_FAC | F7_SHARE_FAC,How many households (other than your own) share this facility?,Num
+http://purl.obolibrary.org/obo/EUPATH_0015111,Selling assets,F4A_SPENT_ASSET,Where did the money that you spent during this visit or hospitalization come from? Selling assets?,0
+http://purl.obolibrary.org/obo/EUPATH_0015110,Borrowing,F4A_SPENT_BORROW,Where did the money that you spent during this visit or hospitalization come from? Borrowing?,0
+http://purl.obolibrary.org/obo/EUPATH_0015112,Asking for donations outside the household,F4A_SPENT_DONAT,Where did the money that you spent during this visit or hospitalization come from? Asking for donations outside of the household?,0
+http://purl.obolibrary.org/obo/EUPATH_0015107,Cutting down expenses from meals,F4A_SPENT_MEAL,Where did the money that you spent during this visit or hospitalization come from? Cutting down expenses from meals?,0
+http://purl.obolibrary.org/obo/EUPATH_0015108,Cutting down from other expenses,F4A_SPENT_OTHEXP,Where did the money that you spent during this visit or hospitalization come from? Cutting down on other expenses?,0
+http://purl.obolibrary.org/obo/EUPATH_0015114,Other money source,F4A_SPENT_OTHR,Where did the money that you spent during this visit or hospitalization come from? Other?,0
+http://purl.obolibrary.org/obo/EUPATH_0015113,Paid by relative or friend,F4A_SPENT_RELATIVE,Where did the money that you spent during this visit or hospitalization come from? Relative or friend pays on your behalf?,0
+http://purl.obolibrary.org/obo/EUPATH_0015109,Using savings,F4A_SPENT_SVNGS,Where did the money that you spent during this visit or hospitalization come from? Using savings?,0
+http://purl.obolibrary.org/obo/EUPATH_0000726,Time to retrieve drinking water,F4A_TIME_WATER | F7_TIME_WATER,"How long does it take to go there, get water and come back?",0
+http://purl.obolibrary.org/obo/EUPATH_0010135,Water trips daily,F4A_TRIP_DAY | F7_TRIP_DAY,"On average, how many trips do you and members of your household make to fetch water each day?",Num
+http://purl.obolibrary.org/obo/EUPATH_0010137,Water trips weekly,F4A_TRIP_WEEK | F7_TRIP_WEEK,"On average, how many trips do you and members from your household make to fetch water each week?",Num
+http://purl.obolibrary.org/obo/EUPATH_0010263,Amount paid for initial transportation to clinic,F4A_TRNS_INIT_PAY,"If you paid for transportation to bring the child to the hospital or clinic, how much did you pay?",Num
+http://purl.obolibrary.org/obo/EUPATH_0010265,Amount paid for transportation by other household members,F4A_TRNS_OTHER_PAY,How much have other members of your household paid for transport to or from this facility as a result of the child's stay in the facility?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010264,Amount paid for trips to clinic after initial visit,F4A_TRNS_YOU_PAY,"Other than the first trip to bring the child to the health center, how much did you pay for transport to or from this facility during the child's stay in the facility?",Num
+http://purl.obolibrary.org/obo/EUPATH_0010262,Transportation time to clinic,F4A_TRNSPORT_TIME,How long did it take to get here from your home (including the journey time and any time waiting for transport?,1
+http://purl.obolibrary.org/obo/EUPATH_0015056,Washes hands after cleaning child who defecated,F4A_WASH_CHILD | F7_WASH_CHILD,When do you usually wash your hands? After cleaning child who defecated?,0
+http://purl.obolibrary.org/obo/EUPATH_0015052,Washes hands before cooking,F4A_WASH_COOK | F7_WASH_COOK,When do you usually wash your hands? Before cooking?,0
+http://purl.obolibrary.org/obo/EUPATH_0015057,Never washes hands,F4A_WASH_NEVER | F7_WASH_NEVER,When do you usually wash your hands? Never?,0
+http://purl.obolibrary.org/obo/EUPATH_0015044,Dam or earth pan,F4A_WATER_DAM | F7_WATER_DAM,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Dam or earth pan?",0
+http://purl.obolibrary.org/obo/EUPATH_0015043,Pond or lake,F4A_WATER_POND | F7_WATER_POND,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Pond or lake?",0
+http://purl.obolibrary.org/obo/EUPATH_0015038,Protected spring,F4A_WATER_PROSPRING | F7_WATER_PROSPRING,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Protected spring?",0
+http://purl.obolibrary.org/obo/EUPATH_0015041,Open public well,F4A_WATER_PUBWELL | F7_WATER_PUBWELL,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Open public well?",0
+http://purl.obolibrary.org/obo/EUPATH_0015047,Shallow tube well,F4A_WATER_SHALLWELL | F7_WATER_SHALLWELL,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Shallow tube well?",0
+http://purl.obolibrary.org/obo/EUPATH_0015040,Unprotected spring,F4A_WATER_UNSPRING | F7_WATER_UNSPRING,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Unprotected Spring? | During the last two weeks, has your household ever obtained drinking water from any of the following sources? Unprotected spring?",0
+http://purl.obolibrary.org/obo/EUPATH_0015039,Open well in dwelling or yard,F4A_WATER_WELL | F7_WATER_WELL,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Open well in house or yard?",0
+http://purl.obolibrary.org/obo/EUPATH_0015035,Piped into yard,F4A_WATER_YARD | F7_WATER_YARD,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Piped into yard?",0
+http://purl.obolibrary.org/obo/EUPATH_0010232,Children under 60 months in dwelling,F4A_YNG_CHILDREN | F7_YNG_CHILDRN,How many children younger than 60 months live in the household?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010345,Admitted to hospital,F4B_ADMIT,Outcome when Leaving Hosp/Health Center: Was the child admitted to the hospital?,0
+http://purl.obolibrary.org/obo/EUPATH_0015117,Bipedal edema,F4B_BIPEDAL | F7_BIPEDAL | F5_BIPEDAL,Physical findings: Bipedal edema [Both feet],0
+http://purl.obolibrary.org/obo/EUPATH_0015115,Chest indrawing,F4B_CHEST_INDRW,Physical findings:  1f. Chest indrawing,0
+http://purl.obolibrary.org/obo/EUPATH_0015412,Completely rehydrated 4hrs after starting rehydration,F4B_CHILD_COMP_REHYD,Outcome 4 hrs after starting rehydration: Was the child completely rehydrated?,
+http://purl.obolibrary.org/obo/EUPATH_0010299,Evaluated after 4hrs,F4B_CHILD_EVAL,Outcome 4hrs after starting rehydration: Was the child evaluated after 4 hours?,0
+http://purl.obolibrary.org/obo/EUPATH_0010300,Reason not evaluated after rehydration,F4B_CHILD_EVAL_SPEC,If not evaluated after 4 hours what was the reason?,Char
+http://purl.obolibrary.org/obo/EUPATH_0010317,Required additional oral or IV rehydration,F4B_CHILD_IV,Outcome 4hrs After Rehyd: Does the child require additional oral/IV fluid for rehydration?,0
+http://purl.obolibrary.org/obo/EUPATH_0010315,Total stool output measured during rehydration therapy,F4B_CHILD_OUTPUT,Outcome 4 hrs After Rehyd: Was the total stool output within the last 4 hours measured?,0
+http://purl.obolibrary.org/obo/EUPATH_0010314,Continued to purge watery stool after starting rehydration,F4B_CHILD_PURGE,Outcome 4hrs After Rehyd: Did the child continue to purge large volumes of watery stool?,0
+http://purl.obolibrary.org/obo/EUPATH_0010297,Required rehydration,F4B_CHILD_REHYD,Does the child require rehydration,0
+http://purl.obolibrary.org/obo/EUPATH_0004991,Observation date,F4B_DATE | F5_DATE | F7_DATE | F4A_DATE,Enrollment Controls Visit Date | Visit Date for 60-Day Follow-Up (Cases & Controls) | Visit Date For Enrollment Questionaire for Cases | Enrollment (Non-Medical) Date,Date
+http://purl.obolibrary.org/obo/EUPATH_0010291,Sunken eyes,F4B_EYES,Physical findings: Eyes,0
+http://purl.obolibrary.org/obo/EUPATH_0015129,"BMI-for-age z-score below -5 or above 5, using median length or height",F4B_FIND_MED_BMIZ_F | F7_MED_BMIZ_F | F4B_REHYD_MED_BMIZ_F | F4B_Last_med_BMIZ_F | F4B_OUT_MED_BMIZ_F | F4B_MED_BMIZ_F | F5_MED_BMIZ_F,Last Flag for ZBMI<-5 or ZBMI >5 (median height) | Physical findings: Flag for _ZBMI<-5 or _ZBMI>5 (median ht) | Outcome when Leaving Hosp/Health Center: After Rehyd Flag Calculated BMI for Age Z-score (median ht) <-5 or BMI Z >5 | Outcome if addl Rehyd Need: After Rehyd Flag Calculated BMI for Age Z-score (median ht) <-5 or BMI Z >5 | Outcome 4hrs After Rehyd: Flag for _ZBMI<-5 or _ZBMI>5 (median ht),0
+http://purl.obolibrary.org/obo/EUPATH_0010083,"Weight-for-length or -height z-score, using median length or height",F4B_FIND_MED_WHZ | F4B_REHYD_MED_WHZ | F5_MED_WHZ | F4B_MED_WHZ | F4B_Last_med_WHZ | F4B_OUT_MED_WHZ | F7_MED_WHZ,Outcome when Leaving Hosp/Health Center: After Rehyd Weight-for-length/height z-score (median ht) | Physical findings: Weight-for-length/height z-score (median ht) | Last weight-median length/height Z-Score | Outcome 4hrs After Rehyd: Weight-for-length/height z-score (median ht) | Outcome if addl Rehyd Need: After Rehyd Weight-for-length/height z-score (median ht),Num
+http://purl.obolibrary.org/obo/EUPATH_0010292,Dry mouth,F4B_FIND_MOUTH | F4B_MOUTH,Outcome 4hrs After Rehyd: Mouth | Physical findings: Mouth,0
+http://purl.obolibrary.org/obo/EUPATH_0010084,MUAC (cm),F4B_FIND_MUAC_1 | F4B_REHYD_MUAC_1 | F5_MUAC1 | F4B_MUAC1 | F4B_OUT_MUAC_1 | F7_MUAC1,Physical findings: 1c. MUAC 1st | Outcome if addl Rehyd Need. MUAC 1st | 4 hrs after. MUAC 1st | Outcome when Leaving. MUAC 1st,Num
+http://purl.obolibrary.org/obo/EUPATH_0015126,MUAC-for-age z-score below -5 or above 5,F4B_FIND_MUAC_AGEZ_F | F4B_REHYD_MUAC_AGEZ_F | F5_MUAC_AGEZ_F | F4B_OUT_MUAC_AGEZ_F | F7_MUAC_AGEZ_F | F4B_MUAC_AGEZ_F | F4B_LAST_MUAC_AGEZ_F,Outcome when Leaving: Flag for _ZAC<-5 or _ZAC>5 | Outcome if addl Rehyd Need: Flag for _ZAC<-5 or _ZAC>5 | 4 hrs after: Flag for _ZAC<-5 or _ZAC>5 | Physical findings: Flag for _ZAC<-5 or _ZAC>5 | Last Flag MUAC for Age Z-Score,0
+http://purl.obolibrary.org/obo/EUPATH_0010088,Median MUAC (cm),F4B_FIND_MUAC_MEDIAN | F4B_MUAC_MEDIAN | F7_MUAC_MEDIAN | F4B_OUT_MUAC_MEDIAN | F4B_LAST_MUAC_MEDIAN | F5_MUAC_MEDIAN | F4B_REHYD_MUAC_MEDIAN,Outcome if addl Rehyd Needr: Calculated median MUAC | Outcome when Leaving Calculated median MUAC | LAST median MUAC | Physical findings: Calculated median MUAC | 4hrs after: Calculated median MUAC,Num
+http://purl.obolibrary.org/obo/EUPATH_0010070,Caregiver plus participant weight (kg),F4B_FIND_WT_CHILD | F4B_WT_CHILD | F4B_REHYD_WT_CHILD | F4B_OUT_WT_CHILD | F5_WT_CHILD | F7_WT_CHILD,Physical findings: Weight 0-23 months Caregiver + Child | Outcome if addl Rehyd Need: After Rehyd Weight of Caregiver + Child | Outcome 4hrs After Rehyd: Weight 4 hrs after caregiver + child | Outcome when Leaving Hosp/Health Center: Weight of Caregiver + Child,Num
+http://purl.obolibrary.org/obo/EUPATH_0010079,Median height (cm),F4B_HEIGHT_MEDIAN | F7_HEIGHT_MEDIAN | F5_HEIGHT_MEDIAN,Physical findings: Calculated median height,Num
+http://purl.obolibrary.org/obo/EUPATH_0010347,Hospitalized more than 60 days,F4B_HOSP,Outcome when Leaving Hosp/Health Center: Is the child still in hospital >60 days?,0
+http://purl.obolibrary.org/obo/EUPATH_0010090,"MUAC-for-age z-score, using median MUAC",F4B_LAST_MED_MUAC_AGEZ | F4B_OUT_MED_MUAC_AGEZ | F4B_MED_MUAC_AGEZ | F7_MED_MUAC_AGEZ | F5_MED_MUAC_AGEZ | F4B_FIND_MED_MUAC_AGEZ | F4B_REHYD_MED_MUAC_AGEZ,Last median MUAC for Age Z-Score | Physical findings: Arm circumference-for-age z score (median ac) | Outcome if addl Rehyd Need: Median Arm circumference-for-age z score | Outcome when Leaving: Median Arm circumference-for-age z score | 4 hrs after: Median Arm circumference-for-age z score,Num
+http://purl.obolibrary.org/obo/EUPATH_0015125,"Weight-for-length or -height z-score below -5 or above 5, using median length or height",F4B_Last_med_WHZ_F | F4B_FIND_MED_WHZ_F | F7_MED_WHZ_F | F5_MED_WHZ_F | F4B_OUT_MED_WHZ_F | F4B_REHYD_MED_WHZ_F | F4B_MED_WHZ_F,Outcome 4hrs After Rehyd: Flag for _ZWFL<-5 or _ZWFL>5 (median ht) | Physical findings: Flag for _WHZ<-5 or _WHZ>5 (median ht) | Last Flag for ZWFL<-5 or ZWFL >5 | Outcome when Leaving Hosp/Health Center: After Rehyd Flag WHZ z-score <-5 WHZ>5 (median ht) | Outcome if addl Rehyd Need: After Rehyd Flag WHZ z-score <-5 WHZ>5 (median ht),0
+http://purl.obolibrary.org/obo/EUPATH_0010294,Mental status,F4B_MENTAL,Physical findings: Mental status,0
+http://purl.obolibrary.org/obo/EUPATH_0010085,"MUAC (cm), 2nd",F4B_MUAC2 | F4B_REHYD_MUAC_2 | F4B_FIND_MUAC_2 | F5_MUAC2 | F7_MUAC2 | F4B_OUT_MUAC_2,Physical findings: 1c. MUAC 2nd | Outcome when Leaving. MUAC 2nd | Outcome if addl Rehyd Need. MUAC 2nd | 4 hrs after. MUAC 2nd,Num
+http://purl.obolibrary.org/obo/EUPATH_0010296,Stool nature,F4B_NATURE_STOOL,"If yes, what was the nature of the stool?",0
+http://purl.obolibrary.org/obo/EUPATH_0010295,Staff observed stool sample,F4B_OBSERVE_STOOL,Did either the iterviewer or the study staff observe a stool sample from this child?,0
+http://purl.obolibrary.org/obo/EUPATH_0015128,BMI-for-age z-score below -5 or above 5,F4B_OUT_BMIZ_F | F4B_FIND_BMIZ_F | F4B_BMIZ_F | F5_BMIZ_F | F7_BMIZ_F | F4B_REHYD_BMIZ_F | F4B_Last_BMIZ_F,Physical findings: Flag for _ZBMI<-5 or _ZBMI>5 | Outcome when Leaving Hosp/Health Center:After Rehyd Flag Calculated BMI for Age Z-score <-5 or BMI Z >5 | Last Flag for Z_BMI <-5 or Z_BMI >5 | Outcome if addl Rehyd Need: After Rehyd Flag Calculated BMI for Age Z-score <-5 or BMI Z >5 | Outcome 4hrs After Rehyd: Flag for _ZBMI<-5 or _ZBMI>5,0
+http://purl.obolibrary.org/obo/EUPATH_0010094,"BMI-for-age z-score, using median length or height",F4B_OUT_MED_BMIZ | F4B_Last_med_BMIZ | F4B_FIND_MED_BMIZ | F5_MED_BMIZ | F4B_MED_BMIZ | F4B_REHYD_MED_BMIZ | F7_MED_BMIZ,Physical findings: BMI-for-age z-score (median ht) | Outcome if addl Rehyd Need: After Rehyd Calculated BMI for Age Z-score (median ht) | Outcome when Leaving Hosp/Health Center: After Rehyd Calculated BMI for Age Z-score (median ht) | Last calculated BMI-for-age z-score (median height) | Outcome 4hrs After Rehyd: BMI-for-age z-score (median ht),Num
+http://purl.obolibrary.org/obo/EUPATH_0010353,Outcome leaving hospital or health center,F4B_OUTCOME,Outcome when leaving hospital/health center,1
+http://purl.obolibrary.org/obo/EUPATH_0015134,Other invasive bacterial infection,F4B_OUTCOME_BACT,Outcome when Leaving Hosp/Health Center: Other invasive bacterial infection,0
+http://purl.obolibrary.org/obo/EUPATH_0010346,Hospitalization duraton (days),F4B_OUTCOME_DAYS,"Outcome when Leaving Hosp/Health Center: If admitted to the hospital, for how many days?",Num
+http://purl.obolibrary.org/obo/EUPATH_0015130,Diarrhea,F4B_OUTCOME_DRH,Outcome when Leaving Hosp/Health Center: Diarrhrea,0
+http://purl.obolibrary.org/obo/EUPATH_0015131,Dysentery,F4B_OUTCOME_DYS,Outcome when Leaving Hosp/Health Center: Dysentery,0
+http://purl.obolibrary.org/obo/EUPATH_0015135,Malaria,F4B_OUTCOME_MALA,Outcome when Leaving Hosp/Health Center: Malaria,0
+http://purl.obolibrary.org/obo/EUPATH_0015136,Malnutrition,F4B_OUTCOME_MLNT,Outcome when Leaving Hosp/Health Center: Malnutrition,0
+http://purl.obolibrary.org/obo/EUPATH_0015133,Meningitis,F4B_OUTCOME_MNGTS,Outcome when Leaving Hosp/Health Center: Meningitis,0
+http://purl.obolibrary.org/obo/EUPATH_0015138,Other diagnosis,F4B_OUTCOME_OTHR,Outcome when Leaving Hosp/Health Center: Other,0
+http://purl.obolibrary.org/obo/EUPATH_0015132,Pneumonia or lower respiratory infection,F4B_OUTCOME_PNEU,Outcome when Leaving Hosp/Health Center: Pneumonia/lower respiratory infection,0
+http://purl.obolibrary.org/obo/EUPATH_0015137,Typhoid,F4B_OUTCOME_TYPHOID,Outcome when Leaving Hosp/Health Center: Thyphoid,0
+http://purl.obolibrary.org/obo/EUPATH_0010298,Received recommended rehydration,F4B_RECOMMEND,Will child receive recommended rehydration at this hopsital/health center?,0
+http://purl.obolibrary.org/obo/EUPATH_0015116,Rectal prolapse,F4B_RECTAL | F5_RECTAL,Physical findings: Rectal prolapse,0
+http://purl.obolibrary.org/obo/EUPATH_0010319,Rehydration date,F4B_REHYD_DATE,Outcome if addl Rehyd Need: Date of rehydration,Date
+http://purl.obolibrary.org/obo/EUPATH_0010318,Completely rehydrated in hospital,F4B_REHYD_HOSP,Outcome if addl Rehyd Need: Was the child completely rehydrated in the hospital?,0
+http://purl.obolibrary.org/obo/EUPATH_0010086,"MUAC (cm), 3rd",F4B_REHYD_MUAC_3 | F7_MUAC3 | F4B_FIND_MUAC_3 | F4B_MUAC3 | F5_MUAC3 | F4B_OUT_MUAC_3,4 hrs after. MUAC 3rd | Outcome when Leaving. MUAC 3rd | Physical findings: 1c. MUAC 3rd | Outcome if addl Rehyd Need. MUAC 3rd,Num
+http://purl.obolibrary.org/obo/EUPATH_0010320,Rehydration time,F4B_REHYD_TIME,Outcome if addl Rehyd Need: Time or rehydration,Time
+http://purl.obolibrary.org/obo/EUPATH_0000733,Weight-for-age z-score,F4B_REHYD_WAZ | F4B_WAZ | F4B_OUT_WAZ | F4B_Last_WAZ | F7_WAZ | F4B_FIND_WAZ | F5_WAZ,Outcome when Leaving Hosp/Health Center: Weight for Age Z-score | Physical findings: Weight for Age | Outcome if addl Rehyd Need: After Rehyd Weight for Age Z-score | Last Weight for Age Z-Score | Outcome 4hrs After Rehyd: Weight-for-age z-score,Num
+http://purl.obolibrary.org/obo/EUPATH_0015121,Weight-for-age z-score below -6 or above 5,F4B_REHYD_WAZ_F | F4B_FIND_WAZ_F | F5_WAZ_F | F4B_OUT_WAZ_F | F7_WAZ_F | F4B_Last_WAZ_F | F4B_WAZ_F,Physical findings: Flag for _ZWAZ<-6 or _ZWAZ>5 | Outcome when Leaving Hosp/Health Center: Flag for _WAZ<-6 or _ZWAZ>5 | Last Flag ZLEN<-6 or ZLEN >6 | Outcome if addl Rehyd Need: After Rehyd Flag for _WAZ<-6 or _ZWAZ>5 | Outcome 4hrs After Rehyd: Flag for _ZWEI<-6 or _ZWEI>5,0
+http://purl.obolibrary.org/obo/EUPATH_0000734,Weight-for-length or -height z-score,F4B_REHYD_WHZ | F4B_FIND_WHZ | F4B_WHZ | F4B_Last_WHZ | F4B_OUT_WHZ | F5_WHZ | F7_WHZ,Physical findings: Weight-for-length/height z-score | Outcome if addl Rehyd Need: After Rehyd Weight for Height Z-score | Outcome when Leaving Hosp/Health Center: After Rehyd Weight for Height Z-score | Last Weight for Height Z-Score | Outcome 4hrs After Rehyd: Weight-for-length/height z-score,Num
+http://purl.obolibrary.org/obo/EUPATH_0010098,Mean respiratory rate (breaths/min),F4B_RESP | F7_RESP | F5_RESP,Physical findings:  Calculated resp rate,Num
+http://purl.obolibrary.org/obo/EUPATH_0010293,Skin pinch,F4B_SKIN_PINCH | F4B_SKIN,Outcome 4hrs After Rehyd: Skin pinch | Physical findings: Skin pinch,0
+http://purl.obolibrary.org/obo/EUPATH_0010095,Axillary temperature (C),F4B_TEMP | F5_TEMP | F7_TEMP,Physical findings: 1d. Axillary temperature,Num
+http://purl.obolibrary.org/obo/EUPATH_0015149,Amoxycillin,F4B_TRT_GIVE_AMOX,Treatment given in health center: Amoxicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015150,Ampicillin,F4B_TRT_GIVE_AMPI,Treatment given in health center: Ampicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015157,Antimalarial,F4B_TRT_GIVE_ANTI,Treatment given in health center: An antimalarial drug,0
+http://purl.obolibrary.org/obo/EUPATH_0015146,Azithromycin,F4B_TRT_GIVE_AZI,Treatment given in health center: Azyithromycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015144,Chloramphenicol,F4B_TRT_GIVE_CHLOR,Treatment given in health center: Chloramphenoicol/Thiamphenicol,0
+http://purl.obolibrary.org/obo/EUPATH_0015152,Ciprofloxacin,F4B_TRT_GIVE_CPNR,Treatment given in health center: Ciprofloxacin/Norfloxacin/other fluoroquinolone,0
+http://purl.obolibrary.org/obo/EUPATH_0015141,Cotrimoxazole,F4B_TRT_GIVE_CXL,Treatment given in health center: Cotrimoxazole,0
+http://purl.obolibrary.org/obo/EUPATH_0015145,Erythromycin,F4B_TRT_GIVE_ERY,Treatment given in health center: Erythromycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015142,Normal food withheld,F4B_TRT_GIVE_FOOD,Treatment given in health center: Normal food withheld for >=1 day,0
+http://purl.obolibrary.org/obo/EUPATH_0015143,Gentamycin,F4B_TRT_GIVE_GENT,Treatment given in health center: Gentamycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015156,Homemade fluid,F4B_TRT_GIVE_HOME,Treatment given in health center: A (government recommended) homemade fluid,0
+http://purl.obolibrary.org/obo/EUPATH_0015140,Intravenous fluids,F4B_TRT_GIVE_IV,Treatment given in health center: Intravenous fluids,0
+http://purl.obolibrary.org/obo/EUPATH_0015147,Other macrolides,F4B_TRT_GIVE_MACR,Treatment given in health center: Other macrolides,0
+http://purl.obolibrary.org/obo/EUPATH_0015151,Nalidixic acid,F4B_TRT_GIVE_NALID,Treatment given in health center: Nalidixic acid,0
+http://purl.obolibrary.org/obo/EUPATH_0015139,ORS,F4B_TRT_GIVE_ORS,Treatment given in health center: ORS,0
+http://purl.obolibrary.org/obo/EUPATH_0015154,Other antibiotic,F4B_TRT_GIVE_OTHR,Treatment given in health center: Other antibiotic,0
+http://purl.obolibrary.org/obo/EUPATH_0015158,Other medicine,F4B_TRT_GIVE_OTHR3 | F4B_TRT_GIVE_OTHR1 | F4B_TRT_GIVE_OTHR2,Treatment given in health center: Other medicine,0
+http://purl.obolibrary.org/obo/EUPATH_0015148,Penicillin,F4B_TRT_GIVE_PEN,Treatment given in health center: Penicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015153,Selexid,F4B_TRT_GIVE_SLPY,Treatment given in health center: Selexid/Pivmecillinam,0
+http://purl.obolibrary.org/obo/EUPATH_0015155,Zinc,F4B_TRT_GIVE_ZINC,Treatment given in health center: Zinc,0
+http://purl.obolibrary.org/obo/EUPATH_0015183,None prescribed or taken,F4B_TRT_NONE,None prescribed/taken,0
+http://purl.obolibrary.org/obo/EUPATH_0015171,Amoxycillin,F4B_TRT_PRES_AMOX,Given prescription for treatment at home: Amoxicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015172,Ampicillin,F4B_TRT_PRES_AMPI,Given prescription for treatment at home: Ampicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015179,Antimalarial,F4B_TRT_PRES_ANTI,Given prescription for treatment at home: An antimalarial drug,0
+http://purl.obolibrary.org/obo/EUPATH_0015168,Azithromycin,F4B_TRT_PRES_AZI,Given prescription for treatment at home: Azithromycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015166,Chloramphenicol,F4B_TRT_PRES_CHLOR,Given prescription for treatment at home: Chloramphenoicol/Thiamphenicol,0
+http://purl.obolibrary.org/obo/EUPATH_0015174,Ciprofloxacin,F4B_TRT_PRES_CPNR,Given prescription for treatment at home: Ciprofloxacin/Norfloxacin/other fluoroquinolone,0
+http://purl.obolibrary.org/obo/EUPATH_0015163,Cotrimoxazole,F4B_TRT_PRES_CXL,Given prescription for treatment at home: Cotrimoxazole,0
+http://purl.obolibrary.org/obo/EUPATH_0015167,Erythromycin,F4B_TRT_PRES_ERY,Given prescription for treatment at home: Erythromycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015164,Normal food withheld,F4B_TRT_PRES_FOOD,Given prescription for treatment at home: Normal food withheld for >=1 day,0
+http://purl.obolibrary.org/obo/EUPATH_0015165,Gentamycin,F4B_TRT_PRES_GENT,Given prescription for treatment at home: Gentamycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015178,Homemade fluid,F4B_TRT_PRES_HOME,Given prescription for treatment at home: A (government recommended) homemade fluid,0
+http://purl.obolibrary.org/obo/EUPATH_0015162,Intravenous fluids,F4B_TRT_PRES_IV,Given prescription for treatment at home: Intravenous fluids,0
+http://purl.obolibrary.org/obo/EUPATH_0015169,Other macrolides,F4B_TRT_PRES_MACR,Given prescription for treatment at home: Other macrolides,0
+http://purl.obolibrary.org/obo/EUPATH_0015173,Nalidixic acid,F4B_TRT_PRES_NALID,Given prescription for treatment at home: Nalidixic acid,0
+http://purl.obolibrary.org/obo/EUPATH_0015161,ORS,F4B_TRT_PRES_ORS,Given prescription for treatment at home: ORS,0
+http://purl.obolibrary.org/obo/EUPATH_0015176,Other antibiotic,F4B_TRT_PRES_OTHR,Given prescription for treatment at home: Other antibiotic,0
+http://purl.obolibrary.org/obo/EUPATH_0015180,Other medicine,F4B_TRT_PRES_OTHR1 | F4B_TRT_PRES_OTHR3 | F4B_TRT_PRES_OTHR2,Given prescription for treatment at home: Other medicine,0
+http://purl.obolibrary.org/obo/EUPATH_0015170,Penicillin,F4B_TRT_PRES_PEN,Given prescription for treatment at home: Penicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015175,Selexid,F4B_TRT_PRES_SLPY,Given prescription for treatment at home: Selexid/Pivmecillinam,0
+http://purl.obolibrary.org/obo/EUPATH_0015177,Zinc,F4B_TRT_PRES_ZINC,Given prescription for treatment at home: Zinc,0
+http://purl.obolibrary.org/obo/EUPATH_0010316,Stool volume (mL),F4B_VOLUME,"Outcome 4hrs After Rehyd: If continued to purge large volumes of watery stool, what was the volume?",Num
+http://purl.obolibrary.org/obo/EUPATH_0000579,Age (days),F5_AGE | F2_AGE,Age,Num
+http://purl.obolibrary.org/obo/EUPATH_0000661,BMI (kg/m2),F5_BMI | F4B_BMI | F4B_OUT_BMI | F7_BMI | F4B_FIND_BMI | F4B_Last_BMI | F4B_REHYD_BMI,Outcome when Leaving Hosp/Health Center: After Rehyd Calculated BMI=weight / squared(_CLENHEI) | Outcome if addl Rehyd Need: After Rehyd Calculated BMI=weight / squared(_CLENHEI) | Outcome 4hrs After Rehyd: Calculated BMI=weight / squared(_CLENHEI) | Physical findings: Calculated BMI=weight / squared(_CLENHEI) | Last calculated BMI,Num
+http://purl.obolibrary.org/obo/EUPATH_0015268,AquaGuard,F5_BRD_AQUAGU,"If chlorine is the method of water treatment in Q10, check the brand that you observed. AquaGuard",0
+http://purl.obolibrary.org/obo/EUPATH_0015267,Aquatabs,F5_BRD_AQUATAB,"If chlorine is the method of water treatment in Q10, check the brand that you observed. Aquatab",0
+http://purl.obolibrary.org/obo/EUPATH_0015266,Certeza,F5_BRD_CERTEZA,"If chlorine is the method of water treatment in Q10, check the brand that you observed. Certeza",0
+http://purl.obolibrary.org/obo/EUPATH_0015273,Not applicable (none observed),F5_BRD_NA,"If chlorine is the method of water treatment in Q10, check the brand that you observed. Not applicable (none observed)",0
+http://purl.obolibrary.org/obo/EUPATH_0015274,Other brand,F5_BRD_OTHER,"If chlorine is the method of water treatment in Q10, check the brand that you observed. Other",0
+http://purl.obolibrary.org/obo/EUPATH_0015271,PuR,F5_BRD_PUR,"If chlorine is the method of water treatment in Q10, check the brand that you observed. Pur",0
+http://purl.obolibrary.org/obo/EUPATH_0015272,Brand unknown,F5_BRD_UNKNOWN,"If chlorine is the method of water treatment in Q10, check the brand that you observed. Unknown",0
+http://purl.obolibrary.org/obo/EUPATH_0015269,WaterGuard,F5_BRD_WTRGUARD,"If chlorine is the method of water treatment in Q10, check the brand that you observed. WaterGuard",0
+http://purl.obolibrary.org/obo/EUPATH_0015270,Watermaker,F5_BRD_WTRMAKE,"If chlorine is the method of water treatment in Q10, check the brand that you observed. Watermaker",0
+http://purl.obolibrary.org/obo/EUPATH_0000722,Child waste disposal,F5_CHILD_FECES | F7_DISP_FECES | F4A_DISP_FECES,Please show me where you usually dispose of the feces of your child? | How do you usually dispose of Childs feces?,0 | 1
+http://purl.obolibrary.org/obo/EUPATH_0010066,Health at 60 day follow-up visit,F5_CHILD_HEALTH,How is Childs health since the last study visit?,
+http://purl.obolibrary.org/obo/EUPATH_0010111,Chlorine test result,F5_CHLR_WATER,"If chlorine is the method of water treatment in Q10, record the chlorine test result:",
+http://purl.obolibrary.org/obo/EUPATH_0000150,Death date,F5_DATE_DEATH | F4B_DATE_DEATH,"If child died, what is the date of death? | If the child died, what was the date of death?",Date | Char
+http://purl.obolibrary.org/obo/EUPATH_0015234,Malaria,F5_DIAG_MAL,"To your knowledge, was the child diagnosed with any of the following at a health center facility? Malaria",0
+http://purl.obolibrary.org/obo/EUPATH_0015236,Meningitis,F5_DIAG_MENG,"To your knowledge, was the child diagnosed with any of the following at a health center facility? Meningitis",0
+http://purl.obolibrary.org/obo/EUPATH_0015237,Other diagnosis,F5_DIAG_OTHR,"To your knowledge, was the child diagnosed with any of the following at a health center facility? Other",0
+http://purl.obolibrary.org/obo/EUPATH_0015235,Pneumonia,F5_DIAG_PNE,"To your knowledge, was the child diagnosed with any of the following at a health center facility? Pneumonia",0
+http://purl.obolibrary.org/obo/EUPATH_0015233,Typhoid,F5_DIAG_TYP,"To your knowledge, was the child diagnosed with any of the following at a health center facility? Typhoid",0
+http://purl.obolibrary.org/obo/EUPATH_0010068,Health facility code,F5_DIED_FACILITY,"If child died in health facility, health facility 3-digit code?",Num
+http://purl.obolibrary.org/obo/EUPATH_0015246,Arthritis,F5_EXP_ARTHRITIS,"Since the last study visit, has child experienced any of the following: Arthritis [Swollen, painful joins]",
+http://purl.obolibrary.org/obo/EUPATH_0015245,Convulsions,F5_EXP_CONVUL,"Since the last study visit, has child experienced any of the following: Convulsions",
+http://purl.obolibrary.org/obo/EUPATH_0015240,Cough with difficult breathing,F5_EXP_COU,Since the last study visit has Child experienced any of the following illnesses: Cough with difficult breathing,0
+http://purl.obolibrary.org/obo/EUPATH_0015249,Health facility for cough,F5_EXP_COU_VISIT,"Since the last study visit if Child has experience illness, did they visit a health facility?",0
+http://purl.obolibrary.org/obo/EUPATH_0015238,Diarrhea,F5_EXP_DRH,Since the last study visit has Child experienced any of the following illnesses: Diarrhea?,0
+http://purl.obolibrary.org/obo/EUPATH_0015247,Health facility for diarrhea,F5_EXP_DRH_VISIT,"Since the last study visit if Child has experience illness, did they visit a health facility?",0
+http://purl.obolibrary.org/obo/EUPATH_0015239,Dysentery,F5_EXP_DYS,Since the last study visit has Child experienced any of the following illnesses: Dysentery?,0
+http://purl.obolibrary.org/obo/EUPATH_0015248,Health facility for dysentery,F5_EXP_DYS_VISIT,"Since the last study visit if Child has experience illness, did they visit a health facility?",0
+http://purl.obolibrary.org/obo/HP_0001945,Fever,F5_EXP_FEVER,Since the last study visit has Child experienced any of the following illnesses: Fever with unknown origin,0
+http://purl.obolibrary.org/obo/EUPATH_0015250,Health facility for fever,F5_EXP_FEVER_VISIT,"Since the last study visit if Child has experience illness, did they visit a health facility?",0
+http://purl.obolibrary.org/obo/EUPATH_0015242,Other illness,F5_EXP_OTHR2 | F5_EXP_OTHR,Since the last study visit has Child experienced any of the following illnesses: Other?,0
+http://purl.obolibrary.org/obo/EUPATH_0015251,Health facility for other,F5_EXP_OTHR2_VISIT | F5_EXP_OTHR_VISIT,"Since the last study visit if Child has experience illness, did they visit a health facility?",0
+http://purl.obolibrary.org/obo/EUPATH_0015244,Rectal prolapse,F5_EXP_RECTAL,"Since the last study visit, has child experienced any of the following: Rectal prolapse",
+http://purl.obolibrary.org/obo/EUPATH_0010069,Health facility name,F5_FACILITY_SPEC,"If child died in health facility, specify.",Char
+http://purl.obolibrary.org/obo/EUPATH_0010116,Visible feces elsewhere in house or yard,F5_FECES_ELSE,Were visible feces observed elsewhere in house or yard?,0
+http://purl.obolibrary.org/obo/EUPATH_0010115,Visible feces in defecation area,F5_FECES_VISIBLE,Were there visible feces observed in defecation area?,0
+http://purl.obolibrary.org/obo/EUPATH_0015710,Length- or height-for-age z-score,F5_HAZ | F4B_HAZ | F7_HAZ,Physical findings: Length/height-for-age z-score,Num
+http://purl.obolibrary.org/obo/EUPATH_0010078,Mean height (cm),F5_HEIGHT | F4B_HEIGHT | F7_HEIGHT,Physical findings: Calculated mean height,Num
+http://purl.obolibrary.org/obo/EUPATH_0010101,Observed drinking water containers,F5_MAIN_CONT,Observed container(s) in use in the home?,0
+http://purl.obolibrary.org/obo/EUPATH_0010104,Drinking water containers covered,F5_MAIN_CONTAINCOV,Are containers covered?,0
+http://purl.obolibrary.org/obo/EUPATH_0010102,Drinking water container,F5_MAIN_TYPE,Main Type of Container Observed,0
+http://purl.obolibrary.org/obo/EUPATH_0010093,"BMI, using median length or height",F5_MED_BMI | F4B_Last_med_BMI | F7_MED_BMI | F4B_REHYD_MED_BMI | F4B_OUT_MED_BMI | F4B_MED_BMI | F4B_FIND_MED_BMI,Outcome when Leaving Hosp/Health Center: After Rehyd Calculated BMI=weight / squared(_CLENHEI) | Physical findings: Calculated BMI=weight / squared(_CLENHEI) (median ht) | Outcome if addl Rehyd Need: After Rehyd Calculated BMI=weight / squared(_CLENHEI) | Last calculated BMI (median height) | Outcome 4hrs After Rehyd: Calculated BMI=weight / squared(_CLENHEI) (median ht),Num
+http://purl.obolibrary.org/obo/EUPATH_0015124,"Height-for-age z-score below -6 or above 6, using median length or height",F5_MED_HAZ_F | F4B_MED_HAZ_F | F7_MED_HAZ_F,Physical findings: Flag for _HAZ<-6 or _HAZ>6 (median ht),0
+http://purl.obolibrary.org/obo/EUPATH_0010062,Reason follow-up interview not conducted,F5_NOT_CONDUCT,"If """"Not conducted"""", what was the reason?",0
+http://purl.obolibrary.org/obo/EUPATH_0010067,Place of death,F5_PLACE_DEATH,"If child died, what was the place of death?",0
+http://purl.obolibrary.org/obo/EUPATH_0010064,"Interviewee relationship to participant, 60 day follow-up",F5_RELATION,What is your relationship to the Child?,1
+http://purl.obolibrary.org/obo/EUPATH_0010097,"Respiratory rate (breaths/min), 2nd",F5_RESP2 | F4B_RESP2 | F7_RESP2,Physical findings:  1e. Respiratory rate per minute 2nd,Num
+http://purl.obolibrary.org/obo/EUPATH_0015120,Skin has 'flaky paint' appearance,F5_SKIN_FLAKY | F4B_SKIN_FLAKY | F7_SKIN_FLAKY,Physical findings: Skin has 'flaky paint' appearance,0
+http://purl.obolibrary.org/obo/EUPATH_0010061,60 day follow-up conducted,F5_STATUS,What was the outcome of the follow-up interview?,0
+http://purl.obolibrary.org/obo/EUPATH_0010108,Drinking water treatment,F5_TREAT_WATER | F7_TRT_WATER | F4A_TRT_WATER,Do you usually treat your drinking water at home? | Do you usually treat drinking water at home?,0
+http://purl.obolibrary.org/obo/EUPATH_0015263,Alum observed,F5_TRTOBS_ALUM,Materials observed for method reported: Alum observed,0
+http://purl.obolibrary.org/obo/EUPATH_0015259,Boiling materials observed,F5_TRTOBS_BOIL,Materials observed for method reported: Observed boiling,0
+http://purl.obolibrary.org/obo/EUPATH_0015264,Other chemical observed,F5_TRTOBS_CHEM,Materials observed for method reported: Chemical observed,0
+http://purl.obolibrary.org/obo/EUPATH_0015262,Chlorine observed,F5_TRTOBS_CHLR,Materials observed for method reported: Tablet/liquid/powder observed,0
+http://purl.obolibrary.org/obo/EUPATH_0015261,Ceramic or other filter observed,F5_TRTOBS_CRMC,Materials observed for method reported: Filter observed,0
+http://purl.obolibrary.org/obo/EUPATH_0015260,Filter cloth observed,F5_TRTOBS_FILTER,Materials observed for method reported: Cloth Observed,0
+http://purl.obolibrary.org/obo/EUPATH_0015265,Other method observed,F5_TRTOBS_OTHR,Materials observed for method reported: Other observed,0
+http://purl.obolibrary.org/obo/EUPATH_0015258,Sun treatment materials observed,F5_TRTOBS_SUN,Materials observed for method reported: 10-20 1-2L bottles on roof in sun,0
+http://purl.obolibrary.org/obo/EUPATH_0015119,Undernutrition,F5_UNDER_NUTR | F7_UNDER_NUTR | F4B_UNDER_NUTR,Physical findings: Undernutrition: wasted/very thin,0
+http://purl.obolibrary.org/obo/EUPATH_0015280,Ash,F5_WASH_ASH,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Ash",0
+http://purl.obolibrary.org/obo/EUPATH_0015278,Basin,F5_WASH_BASIN,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Basin",0
+http://purl.obolibrary.org/obo/EUPATH_0015276,Non-piped water source without tap,F5_WASH_NOPTAP,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Non-piped water source without tap",0
+http://purl.obolibrary.org/obo/EUPATH_0015275,Piped water source,F5_WASH_PIPED,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Piped water source",0
+http://purl.obolibrary.org/obo/EUPATH_0015279,Soap,F5_WASH_SOAP,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Soap",0
+http://purl.obolibrary.org/obo/EUPATH_0015277,Non-piped water source with tap,F5_WASH_TAP,"If hands are washed in or near dwelling/yard, ask to see the place and record whether the following items are present: Non-piped water source with tap",0
+http://purl.obolibrary.org/obo/EUPATH_0010112,Hand washing location,F5_WASH_WHERE,Where do you usually wash your hadns?,0
+http://purl.obolibrary.org/obo/EUPATH_0010106,Scoop with cup,F5_WATER_CUP,How is water removed from container? Scoop with cup,0
+http://purl.obolibrary.org/obo/EUPATH_0010107,Scoop with ladle,F5_WATER_LADLE,How is water removed from container? Scoop with ladle,0
+http://purl.obolibrary.org/obo/EUPATH_0010105,Pour (spigot or spout),F5_WATER_POUR,How is water removed from container? Pour (spigot or spout)?,0
+http://purl.obolibrary.org/obo/EUPATH_0015123,Weight-for-length or -height z-score below -5 or above 5,F5_WHZ_F | F4B_WHZ_F | F4B_OUT_WHZ_F | F4B_Last_WHZ_F | F4B_FIND_WHZ_F | F7_WHZ_F | F4B_REHYD_WHZ_F,Physical findings: Flag for _WHZ<-5 or _WHZ>5 | Last Flag ZWFL <-5 ZWFL>5 | Outcome 4hrs After Rehyd: Flag for _WHZ<-5 or _WHZ>5 | Outcome if addl Rehyd Need: After Rehyd Flag for WHZ<-5 or WHZ>5 | Outcome when Leaving Hosp/Health Center: After Rehyd Flag for WHZ<-5 or WHZ>5,0
+http://purl.obolibrary.org/obo/EUPATH_0010071,Caregiver weight (kg),F5_WT_CARE | F7_WT_CARE | F4B_FIND_WT_CARE | F4B_WT_CARE | F4B_REHYD_WT_CARE | F4B_OUT_WT_CARE,Physical findings: Weight 0-23 months Caregiver alone | Outcome if addl Rehyd Need: After Rehyd Weight of Caregiver | Outcome 4hrs After Rehyd: Weight after 4 hrs caregiver alone | Outcome when Leaving Hosp/Health Center:  Weight of Caregiver,Num
+http://purl.obolibrary.org/obo/EUPATH_0015400,Age (months),F6_AGE,Controls Information: Age,Num
+http://www.ebi.ac.uk/efo/EFO_0004950,Birth date,F6_BIRTH_DATE | F3_CHILDBIRTH,Controls Information: Birthdate | Child's Birthdate,Date
+http://purl.obolibrary.org/obo/EUPATH_0010120,"Age, matched case (months)",F6_CASE_AGE,Index Case: Age of Index Case,Num
+http://purl.obolibrary.org/obo/EUPATH_0010406,"Birth date, matched case",F6_CASE_DOB,Index Case: Birthdate of Index Case,Date
+http://purl.obolibrary.org/obo/EUPATH_0010042,"Enrollment date, matched case",F6_CASE_ENROLL,Index Case: Date of enrollment of index case,Date
+http://purl.obolibrary.org/obo/EUPATH_0010405,"Sex, matched case",F6_CASE_GENDER,Index Case: Gender of Index Case,0
+http://purl.obolibrary.org/obo/EUPATH_0000725,Participant ID for matched case,F6_CASE_ID | F7_CASE_ID,Index Case ID | Index Case: Case ID Number of index case,Num
+http://purl.obolibrary.org/obo/EUPATH_0010119,Control eligibility check date,F6_DATE,Eligibility for Controls Visit Date,
+http://purl.obolibrary.org/obo/PATO_0000047,Sex,F6_GENDER | F2_GENDER | F3_GENDER,Gender? | Controls Information: Child's gender,0
+http://purl.obolibrary.org/obo/EUPATH_0015030,Fowl,F7_ANI_FOWL | F4A_ANI_FOWL,"Do the following animals live in the compound where Child lives? Fowl (Chicken, duck or other birds)?",0
+http://purl.obolibrary.org/obo/EUPATH_0015024,Goat,F7_ANI_GOAT | F4A_ANI_GOAT,Do the following animals live in the compound where Child lives? Goat?,0
+http://purl.obolibrary.org/obo/EUPATH_0015032,No animals,F7_ANI_NO | F4A_ANI_NO,Do the following animals live in the compound where Child lives? No Animals?,0
+http://purl.obolibrary.org/obo/EUPATH_0015031,Other,F7_ANI_OTHER | F4A_ANI_OTHER,Do the following animals live in the compound where Child lives? Other?,0
+http://purl.obolibrary.org/obo/EUPATH_0015184,Blood in stools during last 7 days,F7_BLOOD,During the last 7 das did Child have any of the following? Blood?,0
+http://purl.obolibrary.org/obo/EUPATH_0000662,BMI-for-age z-score,F7_BMIZ | F4B_Last_BMIZ | F4B_FIND_BMIZ | F4B_REHYD_BMIZ | F4B_BMIZ | F5_BMIZ | F4B_OUT_BMIZ,Last BMI-for-Age Z-Score | Outcome if addl Rehyd Need: After Rehyd Calculated BMI for Age Z-score | Physical findings: BMI-for-age z-score | Outcome when Leaving Hosp/Health Center: After Rehyd Calculated BMI for Age Z-score | Outcome 4hrs After Rehyd: BMI-for-age z-score,Num
+http://purl.obolibrary.org/obo/EUPATH_0010371,Breastfed,F7_BREASTFED,Is Child currently breastfed?,0
+http://purl.obolibrary.org/obo/EUPATH_0010153,Currently receiving medication,F7_CUR_MED,Is the child currently receiving any medicine?,0
+http://purl.obolibrary.org/obo/EUPATH_0000676,Father's residence,F7_DAD_LIVE | F4A_DAD_LIVE,Where does Child's father live?,1
+http://purl.obolibrary.org/obo/EUPATH_0000335,Human waste facilities,F7_FAC_WASTE | F5_HOUSE_FECES | F4A_FAC_WASTE,Please show me the facility your household most commonly use to dispose of human fecal waste? | What kind of facility does your household most commonly use to dispose of human fecal waste?,0 | 1
+http://purl.obolibrary.org/obo/EUPATH_0015185,Fever during last 7 days,F7_FEVER,During the last 7 das did Child have any of the following? Fever measured at least 38C or parental perception,0
+http://purl.obolibrary.org/obo/EUPATH_0015019,Charcoal,F7_FUEL_CHARCOAL | F4A_FUEL_CHARCOAL,What type of cooking fuel does your house use? Charcoal?,0
+http://purl.obolibrary.org/obo/EUPATH_0015016,Coal or lignite,F7_FUEL_COAL | F4A_FUEL_COAL,What type of cooking fuel does your house use? Coal/lignite? | What type of cooking fuel does your house use? Coal?,0
+http://purl.obolibrary.org/obo/EUPATH_0015020,Agricultural crop residue,F7_FUEL_CROP | F4A_FUEL_CROP,What type of cooking fuel does your house use? Agricultural crop residue?,0
+http://purl.obolibrary.org/obo/EUPATH_0015017,Animal dung,F7_FUEL_DUNG | F4A_FUEL_DUNG,What type of cooking fuel does your house use? Animal dung?,0
+http://purl.obolibrary.org/obo/EUPATH_0015015,Liquid propane gas,F7_FUEL_PROPANE | F4A_FUEL_PROPANE,What type of cooking fuel does your house use? Liquid Propane Gas?,0
+http://purl.obolibrary.org/obo/EUPATH_0015022,Wood,F7_FUEL_WOOD | F4A_FUEL_WOOD,What type of cooking fuel does your house use? Wood?,0
+http://purl.obolibrary.org/obo/EUPATH_0015122,Height-for-age z-score below -6 or above 6,F7_HAZ_F | F5_HAZ_F | F4B_HAZ_F,Physical findings: Flag for _HAZ<-6 or _HAZ>6,0
+http://purl.obolibrary.org/obo/EUPATH_0015001,Bicycle or rickshaw,F7_HOUSE_BIKE | F4A_HOUSE_BIKE,Does your household have a bicycle/rickshaw?,0
+http://purl.obolibrary.org/obo/EUPATH_0000171,Car or truck,F7_HOUSE_CAR | F4A_HOUSE_CAR,Does your household have a Car/Truck?,0
+http://purl.obolibrary.org/obo/EUPATH_0000166,Animal-drawn cart,F7_HOUSE_CART | F4A_HOUSE_CART,Does your household have a Animal-drawn cart?,0
+http://purl.obolibrary.org/obo/EUPATH_0021084,Electricity,F7_HOUSE_ELEC | F4A_HOUSE_ELEC,Does your household have Electricity?,0
+http://purl.obolibrary.org/obo/ENVO_01000583,Refrigerator,F7_HOUSE_FRIDGE | F4A_HOUSE_FRIDGE,Does your household have a refrigerator? | Does your household have a Refrigerator?,0
+http://purl.obolibrary.org/obo/ENVO_01000577,Radio,F7_HOUSE_RADIO | F4A_HOUSE_RADIO,Does your household have a radio?,0
+http://purl.obolibrary.org/obo/ENVO_01000615,Motorcycle or scooter,F7_HOUSE_SCOOT | F4A_HOUSE_SCOOT,Does your household have a Motorcycle/Scooter?,0
+http://purl.obolibrary.org/obo/EUPATH_0010075,Height (cm),F7_HT1 | F5_HT1 | F4B_HT1,Physical findings: 1b. Height 1st,Num
+http://purl.obolibrary.org/obo/EUPATH_0010076,"Height (cm), 2nd",F7_HT2 | F4B_HT2 | F5_HT2,Physical findings: 1b. Height 2nd,Num
+http://purl.obolibrary.org/obo/EUPATH_0010077,"Height (cm), 3rd",F7_HT3 | F5_HT3 | F4B_HT3,Physical findings: 1b. Height 3rd,Num
+http://purl.obolibrary.org/obo/EUPATH_0015197,Amoxycillin,F7_MED_AMOXY,What are the medicines that the child is currently receiving? Amoxicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015198,Ampicillin,F7_MED_AMPI,What are the medicines that the child is currently receiving? Ampicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015205,Antimalarial,F7_MED_ANTIMAL,What are the medicines that the child is currently receiving? An antimalarial drug,0
+http://purl.obolibrary.org/obo/EUPATH_0015194,Azithromycin,F7_MED_AZITH,What are the medicines that the child is currently receiving? Azithromycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015192,Chloramphenicol,F7_MED_CHLOR,What are the medicines that the child is currently receiving? Chloramphenicol/Thiamphenicol,0
+http://purl.obolibrary.org/obo/EUPATH_0015200,Ciprofloxacin,F7_MED_CIPRO,What are the medicines that the child is currently receiving? Ciprofloxacin/Norfloxacin/other fluroquinolone,0
+http://purl.obolibrary.org/obo/EUPATH_0015189,Cotrimoxazole,F7_MED_COTR,What are the medicines that the child is currently receiving? Cotrimoxazole,1
+http://purl.obolibrary.org/obo/EUPATH_0015193,Erythromycin,F7_MED_ERYTH,What are the medicines that the child is currently receiving? Erythromycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015191,Gentamycin,F7_MED_GENT,What are the medicines that the child is currently receiving? Gentamycin,0
+http://purl.obolibrary.org/obo/EUPATH_0015204,Homemade fluid,F7_MED_GOVFLUID,What are the medicines that the child is currently receiving? A (government recommended) homemade fluid,0
+http://purl.obolibrary.org/obo/EUPATH_0010082,"Length- or height-for-age z-score, using median length or height",F7_MED_HAZ | F4B_MED_HAZ | F5_MED_HAZ,Physical findings: Length/height-for-age z-score (median ht),Num
+http://purl.obolibrary.org/obo/EUPATH_0015188,Intravenous fluids,F7_MED_IV,What are the medicines that the child is currently receiving? Intravenous fluids,0
+http://purl.obolibrary.org/obo/EUPATH_0015127,"MUAC-for-age z-score below -5 or above 5, using median MUAC",F7_MED_MUAC_AGEZ_F | F4B_FIND_MED_MUAC_AGEZ_F | F4B_REHYD_MED_MUAC_AGEZ_F | F4B_OUT_MED_MUAC_AGEZ_F | F5_MED_MUAC_AGEZ_F | F4B_LAST_MED_MUAC_AGEZ_F | F4B_MED_MUAC_AGEZ_F,Outcome if addl Rehyd Need: Flag for median _ZAC<-5 or _ZAC>5 | 4 hrs after: Flag for median _ZAC<-5 or _ZAC>5 | Last median MUAC for Age Z-Score Flag | Outcome when Leaving: Flag for median _ZAC<-5 or _ZAC>5 | Physical findings: Flag for _ZAC<-5 or _ZAC>5 (median ac),0
+http://purl.obolibrary.org/obo/EUPATH_0015199,Nalidixic acid,F7_MED_NALID,What are the medicines that the child is currently receiving? Nalidixic acid,0
+http://purl.obolibrary.org/obo/EUPATH_0015190,Normal food withheld,F7_MED_NOFOOD,What are the medicines that the child is currently receiving? Normal food withheld for >= 1 day,0
+http://purl.obolibrary.org/obo/EUPATH_0015209,Not currently receiving medication,F7_MED_NONE,What are the medicines that the child is currently receiving? Nothing.,0
+http://purl.obolibrary.org/obo/EUPATH_0015195,Other macrolides,F7_MED_OMACR,What are the medicines that the child is currently receiving? Other macrolides,0
+http://purl.obolibrary.org/obo/EUPATH_0010154,Prescription available for current medication,F7_MED_ONGOING,"If yes, child currently receiving any medicine, is a bottle or table strip or prescription available for ongoing treatment?",0
+http://purl.obolibrary.org/obo/EUPATH_0015187,ORS,F7_MED_ORS,What are the medicines that the child is currently receiving? ORS,0
+http://purl.obolibrary.org/obo/EUPATH_0015206,Other medicine,F7_MED_OTHER3 | F7_MED_OTHER2 | F7_MED_OTHER1,What are the medicines that the child is currently receiving? Other medicine (1)? | What are the medicines that the child is currently receiving? Other medicine (3)? | What are the medicines that the child is currently receiving? Other medicine (2)?,0
+http://purl.obolibrary.org/obo/EUPATH_0015202,Other antibiotic,F7_MED_OTHERANT,What are the medicines that the child is currently receiving? Other anitibiotic,0
+http://purl.obolibrary.org/obo/EUPATH_0015196,Penicillin,F7_MED_PENI,What are the medicines that the child is currently receiving? Penicillin,0
+http://purl.obolibrary.org/obo/EUPATH_0015201,Selexid,F7_MED_SELE,What are the medicines that the child is currently receiving? Selexid/Pivmecillinam,0
+http://purl.obolibrary.org/obo/EUPATH_0015203,Zinc,F7_MED_ZINC,What are the medicines that the child is currently receiving? Zinc,0
+http://purl.obolibrary.org/obo/EUPATH_0010127,Mother's residence,F7_MOM_LIVE | F4A_MOM_LIVE,Where does Child's mother live?,1
+http://purl.obolibrary.org/obo/EUPATH_0010099,Main drinking water source,F7_MS_WATER | F4A_MS_WATER | F5_MS_WATER,"During the last two weeks, what was the main source of drinking water for the members of your household? | During the last two weeks, what was the main source of drinking water for members of your household?",0 | 1
+http://purl.obolibrary.org/obo/EUPATH_0010087,Mean MUAC (cm),F7_MUAC | F4B_LAST_MUAC | F4B_REHYD_MUAC | F4B_MUAC | F4B_OUT_MUAC | F4B_FIND_MUAC | F5_MUAC,Outcome when Leaving: Calculated mean MUAC | 4 hrs after: Calculated mean MUAC | Outcome if addl Rehyd Need: Calculated mean MUAC | Physical findings: Calculated mean MUAC | Last MUAC,Num
+http://purl.obolibrary.org/obo/EUPATH_0000710,MUAC-for-age z-score,F7_MUAC_AGEZ | F4B_REHYD_MUAC_AGEZ | F4B_FIND_MUAC_AGEZ | F5_MUAC_AGEZ | F4B_MUAC_AGEZ | F4B_OUT_MUAC_AGEZ | F4B_LAST_MUAC_AGEZ,Outcome if addl Rehyd Need: Arm circumference-for-age z score | Last MUAC for Age Z-Score | Outcome when Leaving: Arm circumference-for-age z score | 4 hrs after: Arm circumference-for-age z score | Physical findings: Arm circumference-for-age z score,Num
+http://purl.obolibrary.org/obo/EUPATH_0010151,Given untreated water,F7_NOTRT_WATER | F4A_NOTRT_WATER,In the last two weeks did you give Child water which was not treated?,0
+http://purl.obolibrary.org/obo/EUPATH_0015465,Amount offered to drink during previous diarrheal episode,F7_OFFR_DRINK,,
+http://purl.obolibrary.org/obo/EUPATH_0015466,Amount offered to eat during previous diarrheal episode,F7_OFFR_EAT,,
+http://purl.obolibrary.org/obo/EUPATH_0000714,Persons sleeping in dwelling,F7_PPL_SLEEP | F4A_PPL_SLEEP,How many people have been sleeping regularly in your household for the past 6 months?,Num
+http://purl.obolibrary.org/obo/EUPATH_0000720,Caregiver relationship to participant,F7_PRIMCARE | F7_PRIMCARE_SPEC | F4A_PRIMCARE,"Other primary caregiver, specify | Who is Child's Primary Caregiver?",1 | Char
+http://purl.obolibrary.org/obo/CMO_0000289,Respiratory rate (breaths/min),F7_RESP1 | F4B_RESP1 | F5_RESP1,Physical findings:  1e. Respiratory rate per minute 1st,Num
+http://purl.obolibrary.org/obo/EUPATH_0010157,1st choice facility code,F7_SEEK_CTR1_CODE | F4A_SEEK_CTR1_CODE,If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of first choice Code,3-digit code
+http://purl.obolibrary.org/obo/EUPATH_0010163,2nd choice facility code,F7_SEEK_CTR2_CODE | F4A_SEEK_CTR2_CODE,If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of second choice Code,Num | 3-digit code
+http://purl.obolibrary.org/obo/EUPATH_0010169,3rd choice facility code,F7_SEEK_CTR3_CODE | F4A_SEEK_CTR3_CODE,If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of third choice Code,Num | 3-digit code
+http://purl.obolibrary.org/obo/EUPATH_0010171,3rd choice facility SHC,F7_SEEK_CTR3_SHC | F4A_SEEK_CTR3_SHC,If you sought care for Child's last episode of diarrhea where did you go? Hospital/Center of third choice SHC,0 | NA
+http://purl.obolibrary.org/obo/EUPATH_0015096,Unlicensed practitioner,F7_SEEK_DOC | F4A_SEEK_DOC,"If you previously sought care for Child for this illness, where did you go? Unlicensed practitioner/village doctor/bush doctor/vilage health worker? | If you sought care for Child's last episode of diarrhea where did you go? Unlicensed practitioner/village doctor/bush doctor/village health worker",0
+http://purl.obolibrary.org/obo/EUPATH_0015094,Friend or relative,F7_SEEK_FRIEND | F4A_SEEK_FRIEND,"If you previously sought care for Child for this illness, where did you go? Friend/Relative? | If you sought care for Child's last episode of diarrhea where did you go? Friend/Relative",0
+http://purl.obolibrary.org/obo/EUPATH_0015093,Pharmacy,F7_SEEK_PHARM | F4A_SEEK_PHARM,"If you previously sought care for Child for this illness, where did you go? Pharmacy? | If you sought care for Child's last episode of diarrhea where did you go? Pharmacy",0
+http://purl.obolibrary.org/obo/EUPATH_0015092,Seek outside care,F7_SEEKCARE | F4A_SEEK_OUTSIDE,"Before coming to this hospital/health center, did you seek care for Child outside your household for this illness? | The last time Child had diarrhea, did you seek care for him/her outside your household?",0
+http://purl.obolibrary.org/obo/EUPATH_0000025,Sleeping rooms in dwelling,F7_SLP_ROOMS | F4A_SLP_ROOMS,How many rooms in your household are used for sleeping?,Num
+http://purl.obolibrary.org/obo/EUPATH_0010141,Given stored water for drinking,F7_STORE_WATER | F4A_STORE_WATER,"In the last two weeks, did you give Child stored water for drinking?",0
+http://purl.obolibrary.org/obo/EUPATH_0000700,Drinking water treatment method,F7_TRT_METHOD | F5_TRT_METH | F4A_TRT_METHOD,Which method do you use the most to treat drinking water at home?,0
+http://purl.obolibrary.org/obo/EUPATH_0015186,Vomiting 3 or more times per day,F7_VOMIT,During the last 7 das did Child have any of the following? Vomiting 3 or more times per day.,0
+http://purl.obolibrary.org/obo/EUPATH_0015055,Washes hands after handling domestic animals,F7_WASH_ANIMAL | F4A_WASH_ANIMAL,When do you usually wash your hands? After handling domestic animals?,0
+http://purl.obolibrary.org/obo/EUPATH_0015054,Washes hands after defecatation,F7_WASH_DEF | F4A_WASH_DEF,When do you usually wash your hands? After you defecate?,0
+http://purl.obolibrary.org/obo/EUPATH_0015051,Washes hands before eating,F7_WASH_EAT | F4A_WASH_EAT,When do you usually wash your hands? Before eating?,0
+http://purl.obolibrary.org/obo/EUPATH_0015053,Washes hands before nursing or preparing baby's food,F7_WASH_NURSE | F4A_WASH_NURSE,When do you usually wash your hands? Before you nurse or prepare baby's food?,0
+http://purl.obolibrary.org/obo/EUPATH_0015058,Washes hands other times,F7_WASH_OTHR | F4A_WASH_OTHR,"When do you usually wash your hands? Other, specify?",0
+http://purl.obolibrary.org/obo/EUPATH_0000681,Usual hand washing,F7_WASH_USE | F4A_WASH_USE,"When you wash your hands, what do you usually use?",1
+http://purl.obolibrary.org/obo/EUPATH_0000730,Water availability,F7_WATER_AVAIL | F4A_WATER_AVAIL,"In the last two weeks, how often has water been available from this main source?",1
+http://purl.obolibrary.org/obo/EUPATH_0015050,Bore hole,F7_WATER_BORE | F4A_WATER_BORE,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Bore hole?",0
+http://purl.obolibrary.org/obo/EUPATH_0015048,"Bought (tank, bottle, etc)",F7_WATER_BOUGHT | F4A_WATER_BOUGHT,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Bought, tank, bottles, etc?",0
+http://purl.obolibrary.org/obo/EUPATH_0015036,Covered public well,F7_WATER_COVPWELL | F4A_WATER_COVPWELL,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Covered public well?",0
+http://purl.obolibrary.org/obo/EUPATH_0015034,Covered well in dwelling or yard,F7_WATER_COVWELL | F4A_WATER_COVWELL,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Covered well in house or yard?",0
+http://purl.obolibrary.org/obo/EUPATH_0015045,Deep tube well,F7_WATER_DEEPWELL | F4A_WATER_DEEPWELL,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Deep tube well?",0
+http://purl.obolibrary.org/obo/EUPATH_0015033,Piped into dwelling,F7_WATER_HOUSE | F4A_WATER_HOUSE,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Piped into house?",0
+http://purl.obolibrary.org/obo/EUPATH_0015049,Other water source,F7_WATER_OTHR | F4A_WATER_OTHR,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Other?",0
+http://purl.obolibrary.org/obo/EUPATH_0015037,Public tap,F7_WATER_PUBTAP | F4A_WATER_PUBTAP,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Public tap?",0
+http://purl.obolibrary.org/obo/EUPATH_0015046,Rainwater,F7_WATER_RAIN | F4A_WATER_RAIN,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? Rainwater?",0
+http://purl.obolibrary.org/obo/EUPATH_0015042,River or stream,F7_WATER_RIVER | F4A_WATER_RIVER,"During the last two weeks, has your household ever obtained drinking water from any of the following sources? River or stream?",0
+http://purl.obolibrary.org/obo/EUPATH_0000732,Weight (kg),F7_WEIGHT | F4B_FIND_WEIGHT | F4B_Last_weight | F7_WT | F4B_REHYD_WT | F4B_OUT_WT | F4B_REHYD_WEIGHT | F4B_FIND_WT | F5_WT | F4B_OUT_WEIGHT | F5_WEIGHT | F4B_WEIGHT,Outcome when Leaving Hosp/Health Center: Calculated Weight Child | Physical findings: Calculated Weight | Outcome 4hrs After Rehyd: Weight 4 hrs after child alone | Outcome if addl Rehyd Need: After Rehyd Weight of Child Alone 24-59m | Outcome if addl Rehyd Need: After Rehyd Calculated Weight Child | Outcome 4hrs After Rehyd: Calculated mean Weight 4 hrs after | Outcome when Leaving Hosp/Health Center:  Weight of Child Alone 24-59m | Physical findings: Weight of Child Alone 24-59 Months | Last calculated weight on form,Num
+http://purl.obolibrary.org/obo/EUPATH_0015428,1st day of diarrhea in the past 2 weeks,F9_DRH_FIRST,,
+http://purl.obolibrary.org/obo/EUPATH_0015433,Last day of diarrhea in the past 2 weeks,F9_DRH_LAST,,
+http://purl.obolibrary.org/obo/EUPATH_0010055,Lab form status,LAB_PAIR,"Good Case-Control lab pair, enrolled, labeled and all forms",0
+http://purl.obolibrary.org/obo/EUPATH_0015468,Pathogen count,numpn_GEMS1A,,
+http://purl.obolibrary.org/obo/EUPATH_0010711,"ETEC LT-pos or ST-pos, by PCR",pn1,"Calculated: ETEC, any",
+http://purl.obolibrary.org/obo/EUPATH_0010667,"EPEC bfpA-pos, by PCR",pn10,Calculated: Typical EPEC (tEPEC),
+http://purl.obolibrary.org/obo/EUPATH_0010707,"EPEC eae-pos and bfpA-pos, by PCR",pn11,Calculated: EAE and BFPA,
+http://purl.obolibrary.org/obo/EUPATH_0015285,"EPEC bfpA-pos eae-neg, by PCR",pn12,Calculated: BFPA Only,
+http://purl.obolibrary.org/obo/EUPATH_0015286,"EPEC eae-pos bfpA-neg, by PCR",pn13,"Calculated: EAE positive, BFPA negative",
+http://purl.obolibrary.org/obo/EUPATH_0010817,"STEC stx1-pos or stx2-pos, by PCR",pn14,Calculated: Shiga toxin,
+http://purl.obolibrary.org/obo/EUPATH_0010619,"Atypical EPEC, by PCR",pn15,Calculated: Atypical EPEC (aEPEC),
+http://purl.obolibrary.org/obo/EUPATH_0015298,"EHEC eae-pos and stx-pos, by PCR",pn16,"Cacluated: EHEC (EAE Positive, stx Positive)",
+http://purl.obolibrary.org/obo/EUPATH_0010805,"Shigella, by bacteriology",pn17,Calculated: Shigella any,
+http://purl.obolibrary.org/obo/EUPATH_0015319,"Shigella flexneri, by bacteriology",pn18,Calculated: Shigella flexneri,
+http://purl.obolibrary.org/obo/EUPATH_0015323,"Shigella sonnei, by bacteriology",pn19,Calculated: Shigella sonnei,
+http://purl.obolibrary.org/obo/EUPATH_0010683,"ETEC ST-pos, by PCR",pn2,Calculated: ST-Producing ETEC (ST Only or LTST),
+http://purl.obolibrary.org/obo/EUPATH_0015321,"Shigella dysenteriae, by bacteriology",pn20,Calculated Shigella dysenteriae,
+http://purl.obolibrary.org/obo/EUPATH_0015320,"Shigella boydii, by bacteriology",pn21,Calculated: Shigella boydii,
+http://purl.obolibrary.org/obo/EUPATH_0010793,"Rotavirus, by ELISA",pn22,Calculated: Rotavirus,
+http://purl.obolibrary.org/obo/EUPATH_0010603,"Aeromonas, by bacteriology",pn23,Calculated: Aeromonas,
+http://purl.obolibrary.org/obo/EUPATH_0010767,"Norovirus, by RT-PCR",pn24,Calculated: Norovirus Any (GI + GII),
+http://purl.obolibrary.org/obo/EUPATH_0010771,"Norovirus GI, by RT-PCR",pn25,Calculated: Norovirus GI,
+http://purl.obolibrary.org/obo/EUPATH_0010775,"Norovirus GII, by RT-PCR",pn26,Calculated: Norovirus GII,
+http://purl.obolibrary.org/obo/EUPATH_0015288,"Adenovirus 40/41, by ELISA",pn27,Calculated: Adenovirus 4041,
+http://purl.obolibrary.org/obo/EUPATH_0015289,"Adenovirus non-40/41, by ELISA",pn28,Calculated: Adenovirus _Non4041,
+http://purl.obolibrary.org/obo/EUPATH_0015290,"Vibrio cholerae O1, by bacteriology",pn29,Calculated: Vibrio cholerae 01,
+http://purl.obolibrary.org/obo/EUPATH_0015282,"ETEC LT-pos and ST-pos, by PCR",pn3,Calculated: ETEC LT and ST,
+http://purl.obolibrary.org/obo/EUPATH_0015293,"Vibrio cholerae O139, by bacteriology",pn32,Calculated: Vibrio cholerae 0139,
+http://purl.obolibrary.org/obo/EUPATH_0015294,"Salmonella typhi, by bacteriology",pn33,Calculated: Salmonella typhii,
+http://purl.obolibrary.org/obo/EUPATH_0015295,"Salmonella non-typhi, by bacteriology",pn34,Calculated: Salmonella non-typhii,
+http://purl.obolibrary.org/obo/EUPATH_0011000,"Cryptosporidium, by ELISA",pn35,Calculated: Cryptosporidium,
+http://purl.obolibrary.org/obo/EUPATH_0011003,"Giardia, by ELISA",pn36,Calculated: Giardia,
+http://purl.obolibrary.org/obo/EUPATH_0010695,"Entamoeba histolytica, by ELISA",pn37,Calculated: Entamoeba histolytica,
+http://purl.obolibrary.org/obo/EUPATH_0010998,"Campylobacter, by bacteriology",pn38,"Calculated: Campylobacter, any",
+http://purl.obolibrary.org/obo/EUPATH_0015316,"Campylobacter jejuni, by bacteriology",pn39,Calculated: Campylobacter jejuni,
+http://purl.obolibrary.org/obo/EUPATH_0010813,"ETEC ST-pos LT-neg, by PCR",pn4,Calculated ETEC ST Only,
+http://purl.obolibrary.org/obo/EUPATH_0015315,"Campylobacter coli, by bacteriology",pn40,Calculated: Campylobacter coli,
+http://purl.obolibrary.org/obo/EUPATH_0015329,"Astrovirus, by RT-PCR",pn41,Cacluated: Astrovirus,
+http://purl.obolibrary.org/obo/EUPATH_0015296,"Sapovirus, by RT-PCR",pn42,Cacluated: Sapovirus,
+http://purl.obolibrary.org/obo/EUPATH_0010746,"ETEC LT-pos ST-neg, by PCR",pn5,Calculated: ETEC LT Only,
+http://purl.obolibrary.org/obo/EUPATH_0010655,"EAEC aatA-pos or aaiC-pos, by PCR",pn6,Calculated: EAEC,
+http://purl.obolibrary.org/obo/EUPATH_0015283,"EAEC aatA-pos aaiC-neg, by PCR",pn7,Calculated: EAEC AATA Only,
+http://purl.obolibrary.org/obo/EUPATH_0015284,"EAEC aaiC-pos aatA-neg, by PCR",pn8,Calculated: EAEC AAIC Only,
+http://purl.obolibrary.org/obo/EUPATH_0010595,"EAEC aatA-pos and aaiC-pos, by PCR",pn9,Calculated: EAEC AATA and AAIC,
+http://purl.obolibrary.org/obo/OBI_0001627,Country,SITE,Country,Categorical
+http://purl.obolibrary.org/obo/EUPATH_0033155,Case-control sub-classification,Study,Enrolled in MSD Study or LSD Study,
+http://purl.obolibrary.org/obo/EUPATH_0010375,Case or control participant,Type,Identify Observation as a Case or Control,Case
+http://purl.obolibrary.org/obo/EUPATH_0000014,"Household wealth index, numerical",Wealth_Index,"Household wealth index, numerical",
+http://purl.obolibrary.org/obo/EUPATH_0000143,"Household wealth index, categorical",wiq,Categorical Rank for wealth index,

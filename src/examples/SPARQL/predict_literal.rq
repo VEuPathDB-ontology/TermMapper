@@ -1,0 +1,10 @@
+select ?p ?pl (count(?s) as ?count)
+where {
+    ?s ?p ?lit .
+    filter(isiri(?s))
+    filter(isliteral(?lit))
+    optional{
+        ?p <http://www.w3.org/2000/01/rdf-schema#label> ?pl
+    }
+}
+group by ?p ?pl
