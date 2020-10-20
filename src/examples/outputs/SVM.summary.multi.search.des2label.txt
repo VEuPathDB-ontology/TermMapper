@@ -28,3 +28,5 @@ Prevalence            0.06903  0.02465   0.9063
 Detection Rate        0.01695  0.00000   0.8999
 Detection Prevalence  0.02365  0.00000   0.9763
 Balanced Accuracy     0.61921  0.50000   0.5885
+
+4886 variables with code description, Solr only found 4596 mapped terms. 
