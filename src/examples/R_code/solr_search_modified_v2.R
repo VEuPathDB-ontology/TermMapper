@@ -21,7 +21,7 @@ library(caret)
 # document path
 # ----------------------------------------
 
-path.example <- "/Users/jiezheng/Documents/VEuPathDB-git/TermMapper_local/examples/"
+path.example <- "./src/examples/"
 
 ####
 # test mapping file, all clinEpi terms
@@ -154,8 +154,8 @@ add(solr.collection.res, cli, selected.core)
 # Solr mapping
 # ----------------------------------------
 
-# Go through 'codebook description', which is searchable column, in each row, and search 'codebook description' what in Solr
-# return id and mapped searchable value, also copy over value for search, as query.label and query.iri
+# Go through 'variable' or 'codebook description', which is searchable column, in each row, and search 'variable' or 'codebook description' 
+# in Solr term label, return id and mapped searchable value, also copy over value for search, as query.label and query.iri
 
 
 # ----------------------------------------
@@ -339,7 +339,7 @@ cosine.dist <-
 multi.search.des$cosine.dist <- cosine.dist
 
 # write the mapping results with class node and cosine distances
-write.csv(multi.search.var, paste0(path.example, "outputs/multi.search.des2label.csv"), row.names=FALSE)
+write.csv(multi.search.des, paste0(path.example, "outputs/multi.search.des2label.csv"), row.names=FALSE)
 
 # extract just the numeric predictors and target
 #  some ML algorithms can learn from categorical features, too
